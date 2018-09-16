@@ -9,8 +9,8 @@ import {FlexConstainer} from '../components/StyComp'
 
 const NewsContainer = styled.div`
   width: 80%;
-  height:200px;
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  height: auto;
+  ${'' /* box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); */}
   margin:auto;
 `
 
@@ -18,12 +18,12 @@ const NewsHeading = styled.div`
   width:100%;
   height:30%;
   padding:5px 5px;
-  display:flex;
+  ${'' /* display:flex; */}
 `
 
 const NewsContent = styled.div`
   width:100%;
-  height:70%;
+  height:auto;
   padding:5px 5px;
   display:flex;
 `
@@ -37,11 +37,12 @@ export default ({data})=>{
       {news.map(d=>(
         <NewsContainer>
           <NewsHeading>
-            <h3 style={{margin:"auto"}}>{d.node.childMarkdownRemark.frontmatter.title}</h3>
-            <span style={{float:"right",color:"#bbb",margin:"auto"}}>{d.node.childMarkdownRemark.frontmatter.date}</span>
+            <h2 style={{display:"inline"}}>{d.node.childMarkdownRemark.frontmatter.title}</h2>
+            <h3 style={{float:"right",color:"#bbb",display:"inline"}}>{d.node.childMarkdownRemark.frontmatter.date}</h3>
           </NewsHeading>
           <NewsContent>
-            <p>{d.node.childMarkdownRemark.excerpt}</p>
+            {/* <div>{d.node.childMarkdownRemark.excerpt}</div> */}
+            <div style={{margin:"auto 0 "}} dangerouslySetInnerHTML={{__html:d.node.childMarkdownRemark.html}}/>
           </NewsContent>
         </NewsContainer>
       ))}
