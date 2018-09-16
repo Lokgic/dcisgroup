@@ -1,12 +1,12 @@
 import React from "react"
 import { StaticQuery, Link, graphql } from "gatsby"
-import styled, {css} from "styled-components"
+import styled from "styled-components"
 import { rhythm } from "../utils/typo"
 
-console.log(rhythm(2))
+
 
 const TopBarContainer = styled.div`
-  margin:0 0;
+  margin:0 0 40px 0;
   width:100%;
   display: flex;
 `

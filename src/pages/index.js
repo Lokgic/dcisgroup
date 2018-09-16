@@ -6,7 +6,7 @@ import { rhythm } from "../utils/typo"
 import CancerBG from '../imgs/cancer.jpeg'
 
 const Jumbotron = styled.div`
-  background: 
+  background:
     linear-gradient(
       rgba(0, 0, 0, 0.6),
       rgba(0, 0, 0, 0.6)
