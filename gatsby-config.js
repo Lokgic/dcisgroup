@@ -17,7 +17,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typo.js`,
       },
     },
-    `gatsby-plugin-styled-components`,
      `gatsby-transformer-remark`,
   ],
 }
