@@ -28,7 +28,7 @@ const TopBar = (props)=>{
   const {structure} = props
   return (
     <TopBarContainer>
-      <Logo to="/">MX</Logo>
+      <Logo to="/">RRC</Logo>
       {structure.map(d=>(
         <StyledLink to={`/${d}/`}key={`link_${d}`}>{d}</StyledLink>
       ))}

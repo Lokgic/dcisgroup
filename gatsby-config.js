@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-   title: `MX Laboratory`,
+   title: `The Ryser Research Collective`,
    structure:["research","news","publications","people"]
  },
   plugins: [

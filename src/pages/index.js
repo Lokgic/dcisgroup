@@ -17,22 +17,35 @@ const Jumbotron = styled.div`
   background-size: cover;
   opacity: 1;
   z-index: -1;
-  position: absolute;
+  ${'' /* position: absolute; */}
   color: white;
   display: flex;
+  flex-wrap: wrap;
+
+
 `
-const Name = styled.p`
+const Name = styled.div`
   font-size: ${rhythm(3)};
   margin:auto;
+  height:auto;
 `
 
+const Intro = styled.div`
+  font-size: ${rhythm(1)};
+  margin: 20px 30px;
+
+`
 
 export default ({data}) => {
+  console.log(data.allFile.edges[0].node.childMarkdownRemark.html)
   return (
     <Layout>
       {/* <img src={CancerBG}/> */}
-      <Jumbotron><Name>{data.site.siteMetadata.title}</Name></Jumbotron>
-
+      <Jumbotron>
+        {data.site.siteMetadata.title.split(" ").map(d=>(<Name>{d}</Name>))}
+        {/* <Name>{data.site.siteMetadata.title}</Name> */}
+      </Jumbotron>
+      <Intro dangerouslySetInnerHTML={{__html:data.allFile.edges[0].node.childMarkdownRemark.html}}/>
     </Layout>
   )
 }
@@ -42,10 +55,28 @@ export default ({data}) => {
 
 export const query = graphql`
   query{
-    site{
-      siteMetadata{
-        title
+  site{
+    siteMetadata{
+      title
+    }
+  }
+
+  allFile(
+    filter:{name:{regex:"/(intro)/"}}
+  ) {
+    edges {
+      node {
+        childMarkdownRemark{
+          frontmatter{
+            title
+            date(formatString: "DD MMMM, YYYY")
+          }
+          html
+          excerpt
+        }
       }
     }
   }
+}
+
 `
