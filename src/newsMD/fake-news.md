@@ -1,5 +1,5 @@
 ---
-title: "Fake news"
-date: "2018-08-20"
+title: "In the Media: The Pharmacy Times"
+date: "2015-03-01"
 ---
-Fake news!!!
+http://www.pharmacytimes.com/news/Greater-Emphasis-on-HPV-Vaccinations-for-Boys-Could-Lead-to-Better-Outcomes

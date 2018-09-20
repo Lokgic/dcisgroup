@@ -9,9 +9,9 @@ export default props=>{
   return (
     <Layout>
       <FlexConstainer>
-        <Card>Project A</Card>
-        <Card>Project B</Card>
-        <Card>Project C</Card>
+        <Card>Coming soon</Card>
+        {/* <Card>Project B</Card>
+        <Card>Project C</Card> */}
       </FlexConstainer>
     </Layout>
 

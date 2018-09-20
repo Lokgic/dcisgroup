@@ -12,6 +12,7 @@ const NewsContainer = styled.div`
   height: auto;
   ${'' /* box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); */}
   margin:auto;
+    max-width: 1300px;
 `
 
 const NewsHeading = styled.div`
@@ -29,20 +30,20 @@ const NewsContent = styled.div`
 `
 export default ({data})=>{
 
-  const news = data.allFile.edges
-
+  const news = data.allMarkdownRemark.edges
+  console.log(news)
   return(
     <Layout>
       <FlexConstainer>
       {news.map(d=>(
         <NewsContainer>
           <NewsHeading>
-            <h2 style={{display:"inline"}}>{d.node.childMarkdownRemark.frontmatter.title}</h2>
-            <h3 style={{float:"right",color:"#bbb",display:"inline"}}>{d.node.childMarkdownRemark.frontmatter.date}</h3>
+            <h2 style={{display:"inline"}}>{d.node.frontmatter.title}</h2>
+            <h3 style={{float:"right",color:"#bbb",display:"inline"}}>{d.node.frontmatter.date}</h3>
           </NewsHeading>
           <NewsContent>
-            {/* <div>{d.node.childMarkdownRemark.excerpt}</div> */}
-            <div style={{margin:"auto 0 "}} dangerouslySetInnerHTML={{__html:d.node.childMarkdownRemark.html}}/>
+
+            <div style={{margin:"auto 0 "}} dangerouslySetInnerHTML={{__html:d.node.html}}/>
           </NewsContent>
         </NewsContainer>
       ))}
@@ -53,22 +54,24 @@ export default ({data})=>{
 
 
 export const query = graphql`
-query {
-  allFile(
-    filter:{relativeDirectory:{regex:"/(newsMD)/"}}
+query
+{
+   allMarkdownRemark(
+    sort: { order: DESC, fields: [frontmatter___date]},
+    filter: {fileAbsolutePath: {regex: "/(newsMD)/"}}
   ) {
-    edges {
-      node {
-        childMarkdownRemark{
-          frontmatter{
-            title
-            date(formatString: "DD MMMM, YYYY")
-          }
+      edges {
+        node {
+          excerpt(pruneLength: 250)
+          id
           html
-          excerpt
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+
+          }
         }
       }
     }
-  }
 }
 `

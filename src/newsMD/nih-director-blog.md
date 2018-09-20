@@ -1,5 +1,5 @@
 ---
-title: "Our work got covered by NIH Director's Blog here!!"
+title: "In the Media: NIH Director's Blog"
 date: "2017-08-10"
 ---
 

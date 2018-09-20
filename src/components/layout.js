@@ -2,14 +2,17 @@ import React from "react"
 import { StaticQuery, Link, graphql } from "gatsby"
 import styled from "styled-components"
 import { rhythm } from "../utils/typo"
-
+import {breakpoint} from '../components/StyComp'
 
 
 const TopBarContainer = styled.div`
   margin:0 0 40px 0;
   width:100%;
   display: flex;
-  position: ${props=>props.frontpage?"absolute":"static"}
+  position: ${props=>props.frontpage?"absolute":"static"};
+  @media (max-width:${breakpoint[1].x}){
+    position:static;
+  }
 `
 
 const Logo = styled(Link)`

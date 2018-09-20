@@ -1,6 +1,6 @@
 ---
-title: "More exciting news"
-date: "2018-08-10"
+title: "In the Media: Sci Guru"
+date: "2015-03-01"
 ---
 
-Wow something really exciting happened.
+http://www.sciguru.org/newsitem/18759/unpredictable-division-patterns-hpv-infected-stem-cells-determines-bodys-ability-fight-it

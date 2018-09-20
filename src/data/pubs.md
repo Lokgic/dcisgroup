@@ -1,100 +1,126 @@
+#Publications
 
-Spatial mutation patterns as markers of early colorectal tumor cell mobility
-M.D. Ryser, B.-H. Min, K.D. Siegmund, D. Shibata
-Proceedings of the National Academy of Sciences, in press (2018)
+## 2018
 
-How Low Can We Go - and Should We? Risk Reduction for Minimal-Volume DCIS
+
+- [Spatial mutation patterns as markers of early colorectal tumor cell mobility ](http://www.pnas.org/content/early/2018/05/09/1716552115.short) M.D. Ryser, B.-H. Min, K.D. Siegmund, D. Shibata Proceedings of the National Academy of Sciences, in press (2018)
+
+- [How Low Can We Go - and Should We? Risk Reduction for Minimal-Volume DCIS](https://link.springer.com/content/pdf/10.1245%2Fs10434-017-6128-4.pdf)
 M.D. Ryser, J. Horton, E.S. Hwang
 Annals of Surgical Oncology, 25:354-355 (2018)
 
-Pre-operative variables are critical in reducing the rate of occult invasive disease for women considering active surveillance for DCIS.
+- [Pre-operative variables are critical in reducing the rate of occult invasive disease for women considering active surveillance for DCIS.](https://jamanetwork.com/journals/jamasurgery/fullarticle/2669912)
 L.J. Grimm, M.D. Ryser, T. Hyslop
 JAMA Surgery, 153(3):290-291 (2018)
 
-Dissecting age-specific HPV seroprevalence in US women: The role of cohort effects and waning immunity
+## 2017
+
+- [Dissecting age-specific HPV seroprevalence in US women: The role of cohort effects and waning immunity](https://academic.oup.com/jid/article-abstract/3977842/Modeling-of-US-HPV-Seroprevalence-by-Age-and)
 M.D. Ryser, A.F. Rositch, P.E. Gravitt
 The Journal of Infectious Diseases, 216(5):604-611 (2017)
 
-Programmed assembly of pressure sensors using pattern-forming bacteria
+- [Programmed assembly of pressure sensors using pattern-forming bacteria](https://www.nature.com/articles/nbt.3978?WT.feed_name=subjects_biotechnology)
 Y. Cao, Y. Feng*, M.D. Ryser,* K. Zhu, G. Herschlag, K. Marusak, S. Zauscher, L. You
-Nature Biotechnology, 35:1087-1093 (2017) *equal contribution
+Nature Biotechnology, 35:1087-1093 (2017) \*equal contribution
 
-Mechanistic Mathematical Models: An Underused Platform for HPV Research
+- [Mechanistic Mathematical Models: An Underused Platform for HPV Research](http://www.sciencedirect.com/science/article/pii/S2405852116300623)
 M.D. Ryser, P.E. Gravitt, E.R. Myers
 Papillomavirus Research, 3:46-49 (2017)
 
-Bone remodeling as a spatial evolutionary game
-M.D. Ryser and K.A. Murgas
+- [Bone remodeling as a spatial evolutionary game
+M.D. Ryser and K.A. Murgas](http://www.sciencedirect.com/science/article/pii/S0022519317300218)
 Journal of Theoretical Biology 418(7):16-26 (2017)
 
-Surgical upstaging rates for vacuum assisted biopsy proven DCIS: implications for active surveillance trials
+- [Surgical upstaging rates for vacuum assisted biopsy proven DCIS: implications for active surveillance trials](https://link.springer.com/article/10.1245%2Fs10434-017-6018-9)
 L.J. Grimm, M.D. Ryser, A.H. Partridge, A.M. Thompson, J.S. Thomas, E.S. Hwang
 Annals of Surgical Oncology, 24(12):3534-3540 (2017)
 
-Spatial measures of genetic heterogeneity during carcinogenesis
-K. Storey, M.D. Ryser, K. Leder, J. Foo
+## 2016
+
+- [Spatial measures of genetic heterogeneity during carcinogenesis
+K. Storey, M.D. Ryser, K. Leder, J. Foo](https://link.springer.com/article/10.1007/s11538-016-0234-5)
 Bulletin of Mathematical Biology, 79(2): 237-276 (2016)
 
-Quantifying the dynamics of field cancerization in tobacco-related head and neck cancer: a multi-scale modeling approach
+- [Quantifying the dynamics of field cancerization in tobacco-related head and neck cancer: a multi-scale modeling approach](http://cancerres.aacrjournals.org/content/early/2016/10/20/0008-5472.CAN-16-1054)
 M.D. Ryser, W.T. Lee, N.E. Ready, K.Z. Leder, J. Foo
 Cancer Research, 76(24):7078-7088 (2016)
 
-Collective space sensing coordinates pattern scaling in engineered bacteria
+- [Collective space sensing coordinates pattern scaling in engineered bacteria](http://www.cell.com/cell/fulltext/S0092-8674(16)30262-8)
 Y. Cao, M.D. Ryser, S. Payne, B. Li, C.V. Rao, L. You
 Cell 166(3): 620-630 (2016)
 
-Outcomes of active surveillance for ductal carcinoma in situ: a computational risk analysis
+- [Outcomes of active surveillance for ductal carcinoma in situ: a computational risk analysis](http://jnci.oxfordjournals.org/content/108/5/djv372.abstract)
 M.D. Ryser, M. Worni, E.L. Turner, J.R. Marks, R. Durrett, E.S. Hwang.
 Journal of the National Cancer Institute, 108(5):djv372 (2016)
 
-Trends in treatment patterns and outcomes for ductal carcinoma in situ (DCIS)
+## 2015
+
+- [Trends in treatment patterns and outcomes for ductal carcinoma in situ (DCIS)](http://jnci.oxfordjournals.org/content/107/12/djv263)
 M. Worni, I. Akushevich, R. Greenup, D. Sarma, M.D. Ryser, E.R. Myers, E.S.Hwang.
 Journal of the National Cancer Institute, 107(12):djv263 (2015)
 
-HPV clearance and the neglected role of stochasticity
+- [HPV clearance and the neglected role of stochasticity](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004113)
 M.D. Ryser, R. Durrett, E.R. Myers
 PLoS Computational Biology, 11(3):e1004113 (2015)
 
-Impact of coverage-dependent marginal costs on optimal HPV vaccination strategies
+- [Impact of coverage-dependent marginal costs on optimal HPV vaccination strategies](http://dx.doi.org/10.1016/j.epidem.2015.01.003)
 M.D. Ryser, K. McGoff, D.P. Herzog, D.J. Sivakoff, E.R. Myers
 Epidemics, 11:32-47 (2015)
 
-Mathematical modeling of cancer metastases
+- [Mathematical modeling of cancer metastases](http://www.crcpress.com/product/isbn/9781466517554)
 M.D. Ryser, S.V. Komarova
 in Computational Bioengineering, CRC/Taylor & Francis (2015)
 
-Multifocality and recurrence risk: a quantitative model of field cancerization
+- [Multifocality and recurrence risk: a quantitative model of field cancerization](http://www.sciencedirect.com/science/article/pii/S0022519314002203)
 J. Foo, K. Leder, M.D. Ryser
 The Journal of Theoretical Biology, 355:170-184 (2014)
 
-Temporal control of self-organized pattern formation without morphogen gradients in bacteria
+## 2013
+
+- [Temporal control of self-organized pattern formation without morphogen gradients in bacteria](http://www.nature.com/msb/journal/v9/n1/full/msb201355.html)
 S. Payne, B. Li, D. Schaeffer, M.D. Ryser, L. You
 Molecular Systems Biology, 9:697 (2013)
 
-Osteoprotegerin in bone metastases: mathematical solution to the puzzle
+## 2012
+
+- [Osteoprotegerin in bone metastases: mathematical solution to the puzzle] (http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
 M.D. Ryser, S.V. Komarova, Y. Qu
 PloS Computational Biology, Volume 8, Issue 10, e1002703 (2012)
 
-Triviality of the 2D stochastic Allen-Cahn equation
+- [Triviality of the 2D stochastic Allen-Cahn equation](http://ejp.ejpecp.org/article/view/1731)
 M. Hairer, M.D. Ryser, H. Weber,
 Electronic Journal of Probability, Volume 17, Article 39 (2012)
 
-On the well-posedness of the stochastic Allen-Cahn equation in two dimensions
+- [On the well-posedness of the stochastic Allen-Cahn equation in two dimensions](http://arxiv.org/abs/arXiv:1104.0720v4)
 M.D. Ryser, P.F. Tupper and N. Nigam
 Journal of Computational Physics, Volume 231, Issue 6, Pages 2537-2550 (2012)
 
-The cellular dynamics of bone remodeling: a mathematical model
-M.D. Ryser, N. Nigam, S.V. Komarova
+## 2010
+
+- [The cellular dynamics of bone remodeling: a mathematical model
+M.D. Ryser, N. Nigam, S.V. Komarova](http://epubs.siam.org/siap/resource/1/smjmap/v70/i6/p1899_s1?isAuthorized=no)
 SIAM Journal on Applied Mathematics, Volume 70, Issue 6, pp. 1899-1921 (2010)
 
-Mathematical modeling of spatio-temporal dynamics of a single bone multicellular unit
+## 2009
+
+- [Mathematical modeling of spatio-temporal dynamics of a single bone multicellular unit](http://onlinelibrary.wiley.com/doi/10.1359/jbmr.081229/full)
 M.D. Ryser, N. Nigam, S.V. Komarova
 Journal of Bone and Mineral Research, 24:860-870 (2009)
 
-Inhomogeneous precipitation distribution and snow transport in steep terrain
-M. Lehning, H. Loewe, M.D. Ryser, N. Raderschall
+## 2008
+
+- [Inhomogeneous precipitation distribution and snow transport in steep terrain](http://www.agu.org/pubs/crossref/2008/2007WR006545.html) M. Lehning, H. Loewe, M.D. Ryser, N. Raderschall
 Water Resources Research, 44, W07404 (2008)
 
-Thermal quantum electrodynamics of non relativistic charged fluids
-P.R. Buenzli, Ph.-A. Martin, M.D. Ryser
-Physical Review E, 75, 041125 (2007) 
+## 2007
+
+- [Thermal quantum electrodynamics of non relativistic charged fluids](http://arxiv.org/abs/arXiv:quant-ph/0701192v2) P.R. Buenzli, Ph.-A. Martin, M.D. Ryser
+Physical Review E, 75, 041125 (2007)
+
+# Theses
+
+- [Ph.D. thesis: Of Bones and Noise](http://www.math.duke.edu/~ryser/files/PhD11.pdf)
+under the supervision of N. Nigam, P.F. Tupper and S.V. Komarova
+
+- [M.Sc. thesis: Electromagnetic Fluctuations in Charged Fluids Coupled to the Radiation Field. ](http://www.math.duke.edu/~ryser/files/MT06main.pdf)
+under the supervision of Ph.-A. Martin
