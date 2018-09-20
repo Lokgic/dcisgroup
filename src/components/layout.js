@@ -9,6 +9,7 @@ const TopBarContainer = styled.div`
   margin:0 0 40px 0;
   width:100%;
   display: flex;
+  position: ${props=>props.frontpage?"absolute":"static"}
 `
 
 const Logo = styled(Link)`
@@ -20,14 +21,19 @@ const Logo = styled(Link)`
 
 const StyledLink = styled(Link)`
   margin:auto;
-  color:black;
+  color:grey;
+  font-size: ${rhythm(.8)}
 `
 
-const TopBar = (props)=>{
-  console.log(props)
+const MainComp = styled.div`
+  width:100%;
+  height:100vh;
+`
+
+export const TopBar = (props)=>{
   const {structure} = props
   return (
-    <TopBarContainer>
+    <TopBarContainer frontpage={props.frontpage}>
       <Logo to="/">RRC</Logo>
       {structure.map(d=>(
         <StyledLink to={`/${d}/`}key={`link_${d}`}>{d}</StyledLink>
@@ -38,6 +44,7 @@ const TopBar = (props)=>{
 
 
 export default props => {
+  console.log(props)
   return (
     <StaticQuery
       query={
@@ -53,11 +60,11 @@ export default props => {
         `}
       render= {
         data=>(
-          <div>
-            <TopBar structure={data.site.siteMetadata.structure}/>
+          <MainComp>
+            <TopBar frontpage={props.frontpage} structure={data.site.siteMetadata.structure}/>
 
             {props.children}
-          </div>
+          </MainComp>
         )
       }
     />

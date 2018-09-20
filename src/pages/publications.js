@@ -8,14 +8,14 @@ export default ({data})=>{
   const pubs = data.allFile.edges[0].node.childMarkdownRemark
 
   return(<Layout>
-    <FlexConstainer style={{padding:"20px"}} height = "100vh" dangerouslySetInnerHTML={{ __html: pubs.html }} /> 
+    <FlexConstainer style={{padding:"20px"}} height = "100vh" dangerouslySetInnerHTML={{ __html: pubs.html }} />
   </Layout>)
 }
 
 export const query = graphql`
 query {
   allFile(
-    filter:{relativeDirectory:{regex:"/(data)/"}}
+    filter:{name:{regex:"/(pubs)/"}}
   ) {
     edges {
       node {
