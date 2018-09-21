@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import {  graphql } from "gatsby"
 import styled from "styled-components"
-// import { rhythm } from "../utils/typo"
+import { rhythm } from "../utils/typo"
 import CancerBG from '../imgs/cancer.jpeg'
 import {breakpoint} from '../components/StyComp'
 
@@ -34,19 +34,19 @@ background:
 `
 
 const Name = styled.p`
-  font-size: 25px;
+  font-size: ${rhythm(3)};
   margin:auto;
   ${'' /* height:auto; */}
   line-height: 100px;
   ${'' /* text-transform: uppercase; */}
   text-align: center;
   @media (max-width: ${breakpoint[0].x}) {
-    font-size: 10px;
+    font-size: ${rhythm(2)};
   }
 `
 
 const Intro = styled.div`
-  font-size: 10px;
+  font-size: ${rhythm(.9)};
   margin: auto 0;
   color:white;
   background: #841C7C;
@@ -54,7 +54,7 @@ const Intro = styled.div`
   padding: 100px 150px;
   @media (max-width: ${breakpoint[0].x}) {
     padding: 50px 50px;
-    font-size: 5px;
+    font-size: ${rhythm(.7)};
   }
 
 
@@ -70,7 +70,7 @@ const MainContainer = styled.div`
 `
 
 const Slogan = styled.p`
-  font-size: 10px;
+  font-size: ${rhythm(.8)};
   margin:auto;
   height:auto;
   line-height: 20px;
@@ -78,7 +78,7 @@ const Slogan = styled.p`
 
   text-align: center;
   @media (max-width: ${breakpoint[0].x}) {
-    font-size: 8px;
+    font-size: ${rhythm(.5)};
   }
 `
 

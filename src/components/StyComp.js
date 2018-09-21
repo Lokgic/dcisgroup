@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-// import { rhythm } from "../utils/typo"
+import { rhythm } from "../utils/typo"
 
 export const breakpoint = [
   {
@@ -69,7 +69,7 @@ export const CardName = styled.h2`
 
 export const CardJobTitle = styled.h3`
   font-weight:600;
-  font-size: 10px;
+  font-size: ${rhythm(.6)};
   margin: 0 0 10px 0;
   width: 100%;
   color:#5C7C94;
@@ -80,11 +80,11 @@ export const CardJobTitle = styled.h3`
 export const CardBlurb = styled.p`
   margin: 0 0 10px 0;
   width: 100%;
-  font-size: 10px;
+  font-size: ${rhythm(.5)};
   font-family: serif;
   text-align: justify;
   @media (max-width:${breakpoint[2].x}){
-  font-size: 12px;
+  font-size: ${rhythm(.7)};
   }
 
 `
