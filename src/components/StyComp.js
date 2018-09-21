@@ -53,7 +53,7 @@ export const CardContent = styled.div`
   margin: auto;
   height: 100%;
   width: 300px;
-  padding: 50px 0px;
+  padding: 50px 0px 25px 0px;
   @media (max-width:${breakpoint[2].x}){
     width:100%;
     padding:40px 30px;
@@ -86,5 +86,20 @@ export const CardBlurb = styled.p`
   @media (max-width:${breakpoint[2].x}){
   font-size: ${rhythm(.7)};
   }
+
+`
+
+
+export const CardPanel = styled.div`
+  display: flex;
+  background: #f1f4f7;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+`
+
+export const CardPanelElement = styled.div`
+  margin:auto 5px auto 5px;
+  font-size: ${rhythm(0.5)};
 
 `

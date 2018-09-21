@@ -4,18 +4,22 @@
     "blurb":"Marc’s research program combines mathematical and statistical modeling techniques to leverage biologic, clinical and population level data with the goal to inform and guide cancer early detection and prevention. Through the synthesis of data across a wide span of spatio-temporal scales, his work provides a nexus between research disciplines and fosters cross-disciplinary team science.",
     "twitter":"@mdryser",
     "title":"Assistant Professor",
-    "pickey":"marc"
+    "pickey":"marc",
+    "email": "marc.ryser@duke.edu",
+    "cv":"cv_ryser.pdf"
   },
   "lok":{
     "name":"Lok C. Chan",
     "blurb":"As a philosopher, Lok is interested in using resources from computer and statistical sciences to provide practical and implementable solutions to philosophical problems laden with conceptual ambiguity and epistemic uncertainty. He wrote his dissertation on the relationship between abductive reasoning and subjective probability.",
     "title":"Post-Doc",
-    "pickey":"lok"
+    "pickey":"lok",
+    "email": "lok.c@duke.edu"
   },
   "ilona":{
-    "name":"Ilona Fridman-Svitina",
+    "name":"Ilona Fridman",
     "blurb":"Ilona's research focuses on what helps individuals make a good choice. The way information is presented to us substantially influences our preferences and attitudes. Utilizing both experiments and field research, Ilona explores how information framing contributes to the formulation of our preferences, misperceptions, and biases in our decisions. ",
     "title":"Post-Doc",
-    "pickey":"ilona"
+    "pickey":"ilona",
+    "email": "ilona.fridman@duke.edu"
   }
 }

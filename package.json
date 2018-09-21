@@ -12,6 +12,7 @@
     "gatsby": "next",
     "gatsby-plugin-styled-components": "^2.0.11",
     "gatsby-plugin-typography": "^1.7.19",
+    "gatsby-remark-external-links": "0.0.4",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
     "react": "^16.4.2",
