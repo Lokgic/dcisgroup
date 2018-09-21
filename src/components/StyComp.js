@@ -31,10 +31,11 @@ export const Card = styled.div`
   display: flex;
   @media (max-width:${breakpoint[2].x}){
     width:100%;
-    height:600px;
+    height:auto;
     flex-direction: column;
     margin:30px 0;
     box-shadow: none;
+
   }
 `
 
@@ -96,10 +97,17 @@ export const CardPanel = styled.div`
   flex-wrap: wrap;
   flex-direction: column;
   align-content:space-evenly;
+  @media (max-width:${breakpoint[2].x}){
+    flex-direction: row;
+    height:${rhythm(3)};
+  }
 `
 
 export const CardPanelElement = styled.div`
   margin:auto 5px auto 5px;
   font-size: ${rhythm(0.5)};
+  @media (max-width:${breakpoint[2].x}){
+    margin:auto;
+  }
 
 `
