@@ -50,7 +50,6 @@ export const TopBar = (props)=>{
 
 
 export default props => {
-  console.log(props)
   return (
     <StaticQuery
       query={

@@ -21,10 +21,8 @@ const NewsHeading = styled.div`
   height:auto;
   padding:15px 15px;
   background-color: #CCD4E4;
-
-
-
 `
+
 
 const NewsContent = styled.div`
   width:100%;
@@ -32,23 +30,50 @@ const NewsContent = styled.div`
   padding:15px 15px;
   display:flex;
 `
+
+
+const NewsContainerStyle =  {
+  width:"80%",
+  height: "auto",
+  margin:"20px auto",
+  maxWidth:"1300px",
+  boxShadow:" 0px 10px 20px rgba(0,0,0,0.2)"
+}
+
+const NewsHeadingStyle = {
+  width:'100%',
+  height:'auto',
+  padding:'15px 15px',
+  backgroundColor: '#CCD4E4',
+}
+
+
+const NewsContentStyle = {
+  width:'100%',
+  height:'auto',
+  padding:'15px 15px',
+  display:'flex'
+}
+
 export default ({data})=>{
 
   const news = data.allMarkdownRemark.edges
+
   return(
     <Layout>
       <FlexConstainer>
-      {news.map(d=>(
-        <NewsContainer>
-          <NewsHeading>
+      {news.map((d,i)=>(
+        <div key={`news_${i}`}style={NewsContainerStyle}>
+          <div style = {NewsHeadingStyle}>
             <h2 style={{display:"inline"}}>{d.node.frontmatter.title}</h2>
             <h3 style={{float:"right",color:"#888",display:"inline"}}>{d.node.frontmatter.date}</h3>
-          </NewsHeading>
-          <NewsContent>
+          </div>
+          <div style={NewsContentStyle}>
 
             <div style={{margin:"auto 0 "}} dangerouslySetInnerHTML={{__html:d.node.html}}/>
-          </NewsContent>
-        </NewsContainer>
+
+          </div>
+        </div>
       ))}
       </FlexConstainer>
     </Layout>
@@ -68,6 +93,7 @@ query
           excerpt(pruneLength: 250)
           id
           html
+
           frontmatter {
             title
             date(formatString: "MMMM YYYY")
