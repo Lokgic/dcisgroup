@@ -84,7 +84,7 @@ export const CardBlurb = styled.p`
   font-family: serif;
   text-align: justify;
   @media (max-width:${breakpoint[2].x}){
-  font-size: ${rhythm(.7)};
+  font-size: ${rhythm(.6)};
   }
 
 `
@@ -95,7 +95,7 @@ export const CardPanel = styled.div`
   background: #f1f4f7;
   flex-wrap: wrap;
   flex-direction: column;
-  align-content: center;
+  align-content:space-evenly;
 `
 
 export const CardPanelElement = styled.div`
