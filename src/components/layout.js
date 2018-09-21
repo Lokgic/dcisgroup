@@ -1,7 +1,7 @@
 import React from "react"
 import { StaticQuery, Link, graphql } from "gatsby"
 import styled from "styled-components"
-import { rhythm } from "../utils/typo"
+// import { rhythm } from "../utils/typo"
 import {breakpoint} from '../components/StyComp'
 
 
@@ -18,7 +18,7 @@ const TopBarContainer = styled.div`
 const Logo = styled(Link)`
   float: left;
   margin: auto 5px;
-  font-size: ${rhythm(2)};
+  font-size: 15px;
   color:black;
   text-shadow: none;
   background-image: none;
@@ -27,7 +27,7 @@ const Logo = styled(Link)`
 const StyledLink = styled(Link)`
   margin:auto;
   color:grey;
-  font-size: ${rhythm(.8)};
+  font-size: 15px;
   text-shadow: none;
 `
 

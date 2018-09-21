@@ -11,12 +11,12 @@ module.exports = {
        path: `${__dirname}/src/`,
      },
    },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typo.js`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-typography`,
+    //   options: {
+    //     pathToConfigModule: `src/utils/typo.js`,
+    //   },
+    // },
      `gatsby-transformer-remark`,
   ],
 }
