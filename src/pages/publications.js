@@ -8,12 +8,18 @@ const PubCont = styled.div`
   max-width: 1000px;
   margin:auto;
 `
+const pstyle = {
+  padding:"50px",
+  maxWidth:"1000px",
+  margin:"auto"
+}
+
 
 export default ({data})=>{
   const pubs = data.allFile.edges[0].node.childMarkdownRemark
 
   return(<Layout>
-    <PubCont dangerouslySetInnerHTML={{ __html: pubs.html }} />
+    <div style={pstyle}dangerouslySetInnerHTML={{ __html: pubs.html }} />
   </Layout>)
 }
 
