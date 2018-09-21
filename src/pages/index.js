@@ -54,6 +54,7 @@ const Intro = styled.div`
   padding: 100px 150px;
   @media (max-width: ${breakpoint[0].x}) {
     padding: 50px 50px;
+    font-size: ${rhythm(.7)};
   }
 
 
@@ -73,7 +74,7 @@ const Slogan = styled.p`
   margin:auto;
   height:auto;
   line-height: 20px;
-  color:grey;
+  color:white;
 
   text-align: center;
   @media (max-width: ${breakpoint[0].x}) {

@@ -31,7 +31,6 @@ const NewsContent = styled.div`
 export default ({data})=>{
 
   const news = data.allMarkdownRemark.edges
-  console.log(news)
   return(
     <Layout>
       <FlexConstainer>

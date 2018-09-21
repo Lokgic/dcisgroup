@@ -14,20 +14,15 @@ const pics = {
   "lok":LokPic,
 }
 
+const PeopleCont = styled(FlexConstainer)`
+  justify-content: center;
+`
+
 export default props=>{
   // console.log(data)
   return (
     <Layout>
-      <FlexConstainer height="70%">
-        {/* <Card>
-          <CardImg src={MarcPic}/>
-          <CardContent>
-            <CardName>{data.marc.name}</CardName>
-            <CardJobTitle>{data.marc.title}</CardJobTitle>
-            <CardBlurb>{data.marc.blurb}</CardBlurb>
-          </CardContent>
-
-        </Card> */}
+      <PeopleCont>
         {Object.keys(data).map(d=>(
           <Card>
             <CardImg src={pics[d]}/>
@@ -39,7 +34,7 @@ export default props=>{
 
           </Card>
         ))}
-      </FlexConstainer>
+      </PeopleCont>
     </Layout>
 
   )

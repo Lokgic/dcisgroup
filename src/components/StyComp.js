@@ -19,14 +19,14 @@ width:100%;
 height:${({height})=>height?height:"60vh"};
 display: flex;
 flex-wrap:wrap;
-${'' /* justify-content:center; */}
+
 `
 
 export const Card = styled.div`
   width:600px;
   height:350px;
   box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
-  margin:auto;
+  margin: 50px auto;
   overflow: hidden;
   display: flex;
   @media (max-width:${breakpoint[2].x}){
