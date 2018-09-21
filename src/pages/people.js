@@ -1,6 +1,5 @@
 import React from "react"
 import Layout from "../components/layout"
-import {  Link, graphql } from "gatsby"
 import {FlexConstainer, Card,CardImg,CardContent,CardName,CardJobTitle,CardBlurb} from '../components/StyComp'
 import styled from "styled-components"
 import data from '../data/people.json'

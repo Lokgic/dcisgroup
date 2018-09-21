@@ -20,12 +20,15 @@ const Logo = styled(Link)`
   margin: auto 5px;
   font-size: ${rhythm(2)};
   color:black;
+  text-shadow: none;
+  background-image: none;
 `
 
 const StyledLink = styled(Link)`
   margin:auto;
   color:grey;
-  font-size: ${rhythm(.8)}
+  font-size: ${rhythm(.8)};
+  text-shadow: none;
 `
 
 const MainComp = styled.div`
