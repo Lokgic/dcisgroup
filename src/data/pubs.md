@@ -75,13 +75,11 @@ in Computational Bioengineering, CRC/Taylor & Francis (2015)
 J. Foo, K. Leder, M.D. Ryser
 The Journal of Theoretical Biology, 355:170-184 (2014)
 
-## 2013
+## 2014 and Earlier
 
 - [Temporal control of self-organized pattern formation without morphogen gradients in bacteria](http://www.nature.com/msb/journal/v9/n1/full/msb201355.html)
 S. Payne, B. Li, D. Schaeffer, M.D. Ryser, L. You
 Molecular Systems Biology, 9:697 (2013)
-
-## 2012
 
 - [Osteoprotegerin in bone metastases: mathematical solution to the puzzle] (http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
 M.D. Ryser, S.V. Komarova, Y. Qu
@@ -95,24 +93,19 @@ Electronic Journal of Probability, Volume 17, Article 39 (2012)
 M.D. Ryser, P.F. Tupper and N. Nigam
 Journal of Computational Physics, Volume 231, Issue 6, Pages 2537-2550 (2012)
 
-## 2010
-
 - [The cellular dynamics of bone remodeling: a mathematical model
 M.D. Ryser, N. Nigam, S.V. Komarova](http://epubs.siam.org/siap/resource/1/smjmap/v70/i6/p1899_s1?isAuthorized=no)
 SIAM Journal on Applied Mathematics, Volume 70, Issue 6, pp. 1899-1921 (2010)
 
-## 2009
 
 - [Mathematical modeling of spatio-temporal dynamics of a single bone multicellular unit](http://onlinelibrary.wiley.com/doi/10.1359/jbmr.081229/full)
 M.D. Ryser, N. Nigam, S.V. Komarova
 Journal of Bone and Mineral Research, 24:860-870 (2009)
 
-## 2008
 
 - [Inhomogeneous precipitation distribution and snow transport in steep terrain](http://www.agu.org/pubs/crossref/2008/2007WR006545.html) M. Lehning, H. Loewe, M.D. Ryser, N. Raderschall
 Water Resources Research, 44, W07404 (2008)
 
-## 2007
 
 - [Thermal quantum electrodynamics of non relativistic charged fluids](http://arxiv.org/abs/arXiv:quant-ph/0701192v2) P.R. Buenzli, Ph.-A. Martin, M.D. Ryser
 Physical Review E, 75, 041125 (2007)

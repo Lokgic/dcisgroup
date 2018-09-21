@@ -70,15 +70,16 @@ const MainContainer = styled.div`
 `
 
 const Slogan = styled.p`
-  font-size: ${rhythm(.8)};
+  font-size: ${rhythm(.9)};
   margin:auto;
   height:auto;
-  line-height: 20px;
-  color:white;
+  padding-top: 45px;
+  line-height: ${rhythm(.9)};
+  color:#ddd;
 
   text-align: center;
   @media (max-width: ${breakpoint[0].x}) {
-    font-size: ${rhythm(.5)};
+    font-size: ${rhythm(.9)};
   }
 `
 
