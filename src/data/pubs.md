@@ -1,5 +1,3 @@
-#Publications
-
 ## 2018
 
 
@@ -110,7 +108,6 @@ Water Resources Research, 44, W07404 (2008)
 - [Thermal quantum electrodynamics of non relativistic charged fluids](http://arxiv.org/abs/arXiv:quant-ph/0701192v2) P.R. Buenzli, Ph.-A. Martin, M.D. Ryser
 Physical Review E, 75, 041125 (2007)
 
-# Theses
 
 - [Ph.D. thesis: Of Bones and Noise](http://www.math.duke.edu/~ryser/files/PhD11.pdf)
 under the supervision of N. Nigam, P.F. Tupper and S.V. Komarova

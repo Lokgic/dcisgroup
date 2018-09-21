@@ -17,7 +17,9 @@ import MarcPic from '../imgs/people/marc.jpg'
 import IlonaPic from '../imgs/people/ilona.png'
 import LokPic from '../imgs/people/lok.png'
 import MarcCV from '../data/cv_ryser.pdf'
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 
 const pics = {
   "marc":MarcPic,
@@ -52,15 +54,25 @@ export default props=>{
             <CardPanel>
               <CardPanelElement>
                 <a style={{color:"#778a99"}} href={`mailto:${data[d].email}`}>
-                  @
+                  <FontAwesomeIcon icon = {faEnvelope}/>
                 </a>
               </CardPanelElement>
-              {cv[d]?
+              {
+                cv[d]?
                 <CardPanelElement>
                   <a target="_blank" style={{color:"#778a99"}} href={cv[d]}>
                     cv
                   </a>
-                </CardPanelElement>:null}
+                </CardPanelElement>:null
+              }
+              {
+                data[d].twitter?
+                <CardPanelElement>
+                  <a target="_blank" style={{color:"#778a99"}} href={`https://twitter.com/${data[d].twitter}`}>
+                    <FontAwesomeIcon icon = {faTwitter}/>
+                  </a>
+                </CardPanelElement>:null
+              }
             </CardPanel>
           </Card>
         ))}
