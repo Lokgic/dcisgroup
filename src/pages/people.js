@@ -20,11 +20,15 @@ import MarcCV from '../data/cv_ryser.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faUser } from '@fortawesome/free-solid-svg-icons'
+
+
 
 const pics = {
   "marc":MarcPic,
   "ilona":IlonaPic,
   "lok":LokPic,
+  "jennifer":null
 }
 
 const cv = {
@@ -36,6 +40,7 @@ const cv = {
 const PeopleCont = styled(FlexConstainer)`
   justify-content: center;
 `
+
 
 export default props=>{
   // console.log(data)

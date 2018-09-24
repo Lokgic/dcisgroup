@@ -22,5 +22,12 @@
     "title":"Post-Doc",
     "pickey":"ilona",
     "email": "ilona.fridman@duke.edu"
+  },
+  "jennifer":{
+    "name":"Jennifer Grant",
+    "blurb":"Jennifer is a Research Coordinator in the Department of Population Health Sciences, where she provides research project management support. She received her BA in psychology, and her MPH from the University of North Carolina at Chapel Hill within the Department of Health Behavior.",
+    "title":"Project Manager",
+    "pickey":"jennifer",
+    "email": "jennifer.grant@duke.edu"
   }
 }
