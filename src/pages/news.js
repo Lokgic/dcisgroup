@@ -11,7 +11,7 @@ const NewsContainer = styled.div`
   height: auto;
   ${'' /* box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22); */}
   margin: 20px auto;
-    max-width: 1300px;
+    max-width: 1000px;
     box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
 
 `
@@ -36,7 +36,7 @@ const NewsContainerStyle =  {
   width:"80%",
   height: "auto",
   margin:"20px auto",
-  maxWidth:"1300px",
+  maxWidth:"1000px",
   boxShadow:" 0px 10px 20px rgba(0,0,0,0.2)"
 }
 
@@ -65,8 +65,8 @@ export default ({data})=>{
       {news.map((d,i)=>(
         <div key={`news_${i}`}style={NewsContainerStyle}>
           <div style = {NewsHeadingStyle}>
-            <h2 style={{display:"inline"}}>{d.node.frontmatter.title}</h2>
-            <h3 style={{float:"right",color:"#888",display:"inline"}}>{d.node.frontmatter.date}</h3>
+            <h2 style={{display:"inline",fontSize:"1.2em"}}>{d.node.frontmatter.title}</h2>
+            <h3 style={{float:"right",color:"#888",display:"inline",fontSize:".6em"}}>{d.node.frontmatter.date}</h3>
           </div>
           <div style={NewsContentStyle}>
 

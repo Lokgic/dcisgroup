@@ -1,0 +1,20 @@
+.pubBox{
+  padding:50px;
+  max-width:1000px;
+  margin:auto;
+
+
+}
+
+.pubBox p {
+  margin:0 0 .2px 0;
+}
+
+.pubBox hr {
+  margin: 15px 0;
+}
+
+.pubBox h3 {
+  margin:0 0 .2px 0;
+  font-size: 1.2em;
+}

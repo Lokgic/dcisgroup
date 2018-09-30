@@ -95,7 +95,7 @@ export default ({data}) => {
       {/* <img src={CancerBG}/> */}
       <PicJumbo>
         {/* {data.site.siteMetadata.title.split(" ").map(d=>(<Name>{d}</Name>))} */}
-        <TitleContainer><Name>{data.site.siteMetadata.title}</Name>
+        <TitleContainer><Name>the m<sup>4</sup> laboratory</Name>
         <Slogan>Bringing Mathematical Multi-Scale Modeling to Medicine</Slogan></TitleContainer>
 
       </PicJumbo>

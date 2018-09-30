@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import styled from "styled-components"
+import '../utils/pub.css'
 
 const PubCont = styled.div`
   padding: 20px;
@@ -11,7 +12,8 @@ const PubCont = styled.div`
 const pstyle = {
   padding:"50px",
   maxWidth:"1000px",
-  margin:"auto"
+  margin:"auto",
+  lineHeight: "1.5"
 }
 
 
@@ -19,7 +21,7 @@ export default ({data})=>{
   const pubs = data.allFile.edges[0].node.childMarkdownRemark
 
   return(<Layout>
-    <div style={pstyle}dangerouslySetInnerHTML={{ __html: pubs.html }} />
+    <div className = "pubBox" dangerouslySetInnerHTML={{ __html: pubs.html }} />
   </Layout>)
 }
 

@@ -6,12 +6,13 @@ import {breakpoint} from '../components/StyComp'
 
 
 const TopBarContainer = styled.div`
-  margin:0 0 40px 0;
+  margin:20px 0;
   width:100%;
   display: flex;
   position: ${props=>props.frontpage?"absolute":"static"};
   @media (max-width:${breakpoint[1].x}){
     position:static;
+    margin:20px 0;
   }
 `
 
@@ -22,6 +23,9 @@ const Logo = styled(Link)`
   color:black;
   text-shadow: none;
   background-image: none;
+  @media (max-width:${breakpoint[1].x}){
+    font-size: 1em;
+  }
 `
 
 const StyledLink = styled(Link)`
@@ -29,6 +33,9 @@ const StyledLink = styled(Link)`
   color:grey;
   font-size: ${rhythm(.8)};
   text-shadow: none;
+  @media (max-width:${breakpoint[1].x}){
+    font-size: 1em;
+  }
 `
 
 const MainComp = styled.div`
@@ -40,7 +47,7 @@ export const TopBar = (props)=>{
   const {structure} = props
   return (
     <TopBarContainer frontpage={props.frontpage}>
-      <Logo to="/">RRC</Logo>
+      <Logo to="/">m<sup>4</sup> </Logo>
       {structure.map(d=>(
         <StyledLink to={`/${d}/`}key={`link_${d}`}>{d}</StyledLink>
       ))}

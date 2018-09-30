@@ -39,6 +39,8 @@ const cv = {
 
 const PeopleCont = styled(FlexConstainer)`
   justify-content: center;
+  max-width:1600px;
+  margin:auto;
 `
 
 
