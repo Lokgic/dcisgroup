@@ -1,5 +1,5 @@
 ---
-title: "In the Media: Duke Today"
+title: “Duke Today: Growing Bacteria Keep Time, Know Their Place“
 date: "2013-10-01"
 ---
 

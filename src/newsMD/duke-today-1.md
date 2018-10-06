@@ -1,5 +1,5 @@
 ---
-title: "In the Media: Duke Today"
+title: “Duke Today: Factoring in the deadly math of cancer“
 date: "2013-02-01"
 ---
 

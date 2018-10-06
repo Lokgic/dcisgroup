@@ -1,5 +1,5 @@
 ---
-title: "In the Media: Doctoral Prize of the Canadian Mathematical Society"
+title: “Ryser awarded Doctoral Prize of the Canadian Mathematical Society"
 date: "2013-08-01"
 ---
 
