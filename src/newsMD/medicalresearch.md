@@ -1,5 +1,5 @@
 ---
-title: “Interview with MedicalResearch.com"
+title: "Interview with MedicalResearch.com"
 date: "2015-04-01"
 ---
 

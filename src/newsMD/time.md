@@ -1,5 +1,5 @@
 ---
-title: "TIME.COM covers work on DCIS active surveillance”
+title: "TIME.COM covers work on DCIS active surveillance"
 date: "2015-12-01"
 ---
 

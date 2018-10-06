@@ -55,6 +55,7 @@ const NewsContentStyle = {
   display:'flex'
 }
 
+
 export default ({data})=>{
 
   const news = data.allMarkdownRemark.edges
@@ -66,7 +67,7 @@ export default ({data})=>{
         <div key={`news_${i}`}style={NewsContainerStyle}>
           <div style = {NewsHeadingStyle}>
             <h2 style={{display:"inline",fontSize:"1.2em"}}>{d.node.frontmatter.title}</h2>
-            <h3 style={{float:"right",color:"#888",display:"inline",fontSize:".6em"}}>{d.node.frontmatter.date}</h3>
+            <h3 style={{float:"right",color:"#888",display:"inline",fontSize:".9em"}}>{d.node.frontmatter.date}</h3>
           </div>
           <div style={NewsContentStyle}>
 

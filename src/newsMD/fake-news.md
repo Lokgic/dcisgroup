@@ -1,5 +1,5 @@
 ---
-title: “HPV Research Featured in The Pharmacy Times“
+title: "HPV Research Featured in The Pharmacy Times"
 date: "2015-03-01"
 ---
 

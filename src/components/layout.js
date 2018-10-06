@@ -23,6 +23,9 @@ const Logo = styled(Link)`
   color:black;
   text-shadow: none;
   background-image: none;
+  &:hover{
+    text-decoration: none;
+  }
   @media (max-width:${breakpoint[1].x}){
     font-size: 1em;
   }
@@ -33,6 +36,10 @@ const StyledLink = styled(Link)`
   color:grey;
   font-size: ${rhythm(.8)};
   text-shadow: none;
+  text-align: none;
+  &:hover{
+    text-decoration: none;
+  }
   @media (max-width:${breakpoint[1].x}){
     font-size: 1em;
   }

@@ -1,5 +1,5 @@
 ---
-title: “New paper out in PLOS Computational Biology“
+title: "New paper out in PLOS Computational Biology"
 date: "2015-03-01"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: “Featured in Duke Today“
+title: "Featured in Duke Today"
 date: "2013-02-01"
 ---
 

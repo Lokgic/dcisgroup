@@ -1,5 +1,5 @@
 ---
-title: “Featured on NIH Director's Blog"
+title: "Featured on NIH Director's Blog"
 date: "2018-05-22"
 ---
 

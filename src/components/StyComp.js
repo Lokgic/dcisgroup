@@ -7,7 +7,7 @@ export const breakpoint = [
     x:"1500px"
   },
   {
-    x:"950px"
+    x:"1100px"
   },
   {
     x:"650px"

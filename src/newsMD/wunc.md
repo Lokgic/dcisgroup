@@ -1,5 +1,5 @@
 ---
-title: “Interview on North Carolina Public Radio (WUNC)”
+title: "Interview on North Carolina Public Radio (WUNC)"
 date: "2015-03-01"
 ---
 

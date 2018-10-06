@@ -11,7 +11,7 @@ Ryser MD, Gulati R, Eisenberg MC, Shen Y, Hwang ES, Etzioni RB
 
 ### [Spatial mutation patterns as markers of early colorectal tumor cell mobility ](http://www.pnas.org/content/early/2018/05/09/1716552115.short)
 
-Ryser MD, Min BH, Siegmund KD, Shibata D
+**Ryser MD**, Min BH, Siegmund KD, Shibata D
 
 #### Proceedings of the National Academy of Sciences,  115(22):5774-5779 (2018)
 
@@ -25,7 +25,7 @@ Ryser MD, Horton J, Hwang ES
 
 ### [Pre-operative variables are critical in reducing the rate of occult invasive disease for women considering active surveillance for DCIS.](https://jamanetwork.com/journals/jamasurgery/fullarticle/2669912)
 Grimm LJ, Ryser MD, Hyslop T
-JAMA Surgery, 153(3):290-291 (2018)
+#### JAMA Surgery, 153(3):290-291 (2018)
 ---
 ## 2017
 

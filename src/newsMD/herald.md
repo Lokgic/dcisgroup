@@ -1,5 +1,5 @@
 ---
-title: “Featured in The Herald Sun"
+title: "Featured in The Herald Sun"
 date: "2015-03-01"
 ---
 

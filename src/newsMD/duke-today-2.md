@@ -1,5 +1,5 @@
 ---
-title: “Paper published in Molecular Systems Biology“
+title: "Paper published in Molecular Systems Biology"
 date: "2013-10-01"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: “Covered by National Public Radio"
+title: "Covered by National Public Radio"
 date: "2015-10-01"
 ---
 
