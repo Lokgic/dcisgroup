@@ -1,6 +1,6 @@
 ---
-title: "In the Media: The Morning Edition of North Carolina Public Radio WUNC"
+title: “Interview on North Carolina Public Radio (WUNC)”
 date: "2015-03-01"
 ---
 
-http://wunc.org/post/study-vaccinating-boys-against-hpv-could-prevent-cancer-men-and-women
+[Study: Vaccinating Boys Against HPV Could Prevent Cancer In Men and Women](http://wunc.org/post/study-vaccinating-boys-against-hpv-could-prevent-cancer-men-and-women)
