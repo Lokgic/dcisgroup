@@ -1,76 +1,84 @@
 ## 2018
 
 
+### [Identification of the fraction of indolent tumors and associated overdiagnosis in breast cancer screening trials]()
+
+Ryser MD, Gulati R, Eisenberg MC, Shen Y, Hwang ES, Etzioni RB
+
+#### American Journal of Epidemiology, accepted (2018)
+
+--------------------------------------
+
 ### [Spatial mutation patterns as markers of early colorectal tumor cell mobility ](http://www.pnas.org/content/early/2018/05/09/1716552115.short)
 
-M.D. Ryser, B.-H. Min, K.D. Siegmund, D. Shibata
+Ryser MD, Min BH, Siegmund KD, Shibata D
 
-#### Proceedings of the National Academy of Sciences, in press (2018)
+#### Proceedings of the National Academy of Sciences,  115(22):5774-5779 (2018)
 
 --------------------------------------
 
 ### [How Low Can We Go - and Should We? Risk Reduction for Minimal-Volume DCIS](https://link.springer.com/content/pdf/10.1245%2Fs10434-017-6128-4.pdf)
-M.D. Ryser, J. Horton, E.S. Hwang
+Ryser MD, Horton J, Hwang ES
 #### Annals of Surgical Oncology, 25:354-355 (2018)
 
 ---
 
 ### [Pre-operative variables are critical in reducing the rate of occult invasive disease for women considering active surveillance for DCIS.](https://jamanetwork.com/journals/jamasurgery/fullarticle/2669912)
-L.J. Grimm, M.D. Ryser, T. Hyslop
+Grimm LJ, Ryser MD, Hyslop T
 JAMA Surgery, 153(3):290-291 (2018)
 ---
 ## 2017
 
 ### [Dissecting age-specific HPV seroprevalence in US women: The role of cohort effects and waning immunity](https://academic.oup.com/jid/article-abstract/3977842/Modeling-of-US-HPV-Seroprevalence-by-Age-and)
-M.D. Ryser, A.F. Rositch, P.E. Gravitt
+Ryser MD, Rositch AF, Gravitt PE
 #### The Journal of Infectious Diseases, 216(5):604-611 (2017)
 ---
 ### [Programmed assembly of pressure sensors using pattern-forming bacteria](https://www.nature.com/articles/nbt.3978?WT.feed_name=subjects_biotechnology)
-Y. Cao, Y. Feng*, M.D. Ryser,* K. Zhu, G. Herschlag, K. Marusak, S. Zauscher, L. You
+Cao Y, Feng Y*, Ryser MD*, Zhu K, Herschlag G, Marusak K,Zauscher S, You L
 #### Nature Biotechnology, 35:1087-1093 (2017) \*equal contribution
 ---
 ### [Mechanistic Mathematical Models: An Underused Platform for HPV Research](http://www.sciencedirect.com/science/article/pii/S2405852116300623)
-M.D. Ryser, P.E. Gravitt, E.R. Myers
+Ryser MD, Gravitt PE, Myers ER
 #### Papillomavirus Research, 3:46-49 (2017)
 ---
 ### [Bone remodeling as a spatial evolutionary game](http://www.sciencedirect.com/science/article/pii/S0022519317300218)
-M.D. Ryser and K.A. Murgas
+Ryser MD and Murgas KA
 #### Journal of Theoretical Biology 418(7):16-26 (2017)
 ---
 ### [Surgical upstaging rates for vacuum assisted biopsy proven DCIS: implications for active surveillance trials](https://link.springer.com/article/10.1245%2Fs10434-017-6018-9)
-L.J. Grimm, M.D. Ryser, A.H. Partridge, A.M. Thompson, J.S. Thomas, E.S. Hwang
+Grimm LJ, Ryser MD, Partridge AH, Thompson AM, Thomas JS, Hwang ES
 #### Annals of Surgical Oncology, 24(12):3534-3540 (2017)
 ---
 ## 2016
 
 ### [Spatial measures of genetic heterogeneity during carcinogenesis
-K. Storey, M.D. Ryser, K. Leder, J. Foo](https://link.springer.com/article/10.1007/s11538-016-0234-5)
+Storey K, Ryser MD, Leder KZ, Foo J](https://link.springer.com/article/10.1007/s11538-016-0234-5)
 #### Bulletin of Mathematical Biology, 79(2): 237-276 (2016)
 ---
 ### [Quantifying the dynamics of field cancerization in tobacco-related head and neck cancer: a multi-scale modeling approach](http://cancerres.aacrjournals.org/content/early/2016/10/20/0008-5472.CAN-16-1054)
-M.D. Ryser, W.T. Lee, N.E. Ready, K.Z. Leder, J. Foo
+Ryser MD, Lee WT, Ready NE, Leder KZ, Foo J
 #### Cancer Research, 76(24):7078-7088 (2016)
 ---
 ### [Collective space sensing coordinates pattern scaling in engineered bacteria](http://www.cell.com/cell/fulltext/S0092-8674(16)30262-8)
-Y. Cao, M.D. Ryser, S. Payne, B. Li, C.V. Rao, L. You
+Cao Y, Ryser MD, Payne S, Li B, Rao CV, You L
 #### Cell 166(3): 620-630 (2016)
 ---
 ### [Outcomes of active surveillance for ductal carcinoma in situ: a computational risk analysis](http://jnci.oxfordjournals.org/content/108/5/djv372.abstract)
-M.D. Ryser, M. Worni, E.L. Turner, J.R. Marks, R. Durrett, E.S. Hwang.
+Ryser MD, Worni M, Turner EL, Marks JR, Durrett R, Hwang ES
 #### Journal of the National Cancer Institute, 108(5):djv372 (2016)
 ---
 ## 2015
 
 ### [Trends in treatment patterns and outcomes for ductal carcinoma in situ (DCIS)](http://jnci.oxfordjournals.org/content/107/12/djv263)
-M. Worni, I. Akushevich, R. Greenup, D. Sarma, M.D. Ryser, E.R. Myers, E.S.Hwang.
+Worni M, Akushevich I, Greenup R, Sarma D, Ryser MD, Myers ER, Hwang ES
 #### Journal of the National Cancer Institute, 107(12):djv263 (2015)
 ---
 ### [HPV clearance and the neglected role of stochasticity](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004113)
-M.D. Ryser, R. Durrett, E.R. Myers
+Ryser MD, Durrett R, Myers ER
 #### PLoS Computational Biology, 11(3):e1004113 (2015)
 ---
 ### [Impact of coverage-dependent marginal costs on optimal HPV vaccination strategies](http://dx.doi.org/10.1016/j.epidem.2015.01.003)
-M.D. Ryser, K. McGoff, D.P. Herzog, D.J. Sivakoff, E.R. Myers
+Ryser MD, McGoff K, Herzog DP, Sivakoff DJ, Myers ER
 #### Epidemics, 11:32-47 (2015)
 ---
 ### [Mathematical modeling of cancer metastases](http://www.crcpress.com/product/isbn/9781466517554)
