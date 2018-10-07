@@ -71,6 +71,19 @@ const Slogan = styled.p`
   }
 `
 
+const MStyle = styled.span`
+font-size: ${props=>props.type==="big"?rhythm(3.5):rhythm(1)};
+color:none;
+-webkit-text-fill-color: rgba(0, 0, 0, 0); /* Will override color (regardless of order) */
+ -webkit-text-stroke-width: ${props=>props.type==="big"?"1px":".4px"};
+ -webkit-text-stroke-color: white;
+@media (max-width: ${breakpoint[0].x}) {
+  font-size: ${props=>props.type==="big"?rhythm(2):rhythm(.6)};
+}
+`
+
+const MLogo = ({type})=>(<MStyle type={type}>m</MStyle>)
+
 const Intro = styled.div`
   font-size: ${rhythm(.9)};
   margin: auto 0;
@@ -116,6 +129,8 @@ const TitleContainer = styled.div`
     }
 `
 
+
+
 export default ({data}) => {
   console.log(data.allFile.edges[0].node.childMarkdownRemark.html)
   return (
@@ -126,8 +141,8 @@ export default ({data}) => {
         {/* {data.site.siteMetadata.title.split(" ").map(d=>(<Name>{d}</Name>))} */}
         <TitleContainer>
           <div style={{margin:"auto"}}>
-          <Name>the m<sup>4</sup> laboratory</Name>
-        <Slogan>Bringing Mathematical Multi-Scale Modeling to Medicine</Slogan></div>
+          <Name>the <MLogo type="big"/><sup>4</sup> laboratory</Name>
+        <Slogan>bringing <MLogo/>athematical <MLogo/>ulti-scale <MLogo/>odeling to <MLogo/>edicine</Slogan></div>
 
       </TitleContainer>
 
