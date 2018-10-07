@@ -34,8 +34,8 @@ Grimm LJ, **Ryser MD**, Hyslop T
 #### The Journal of Infectious Diseases, 216(5):604-611 (2017)
 ---
 ### [Programmed assembly of pressure sensors using pattern-forming bacteria](https://www.nature.com/articles/nbt.3978?WT.feed_name=subjects_biotechnology)
-Cao Y, Feng Y*, **Ryser MD* **, Zhu K, Herschlag G, Marusak K,Zauscher S, You L
-#### Nature Biotechnology, 35:1087-1093 (2017) \*equal contribution
+Cao Y, Feng Y, **Ryser MD**, Zhu K, Herschlag G, Marusak K,Zauscher S, You L
+#### Nature Biotechnology, 35:1087-1093 (2017)
 ---
 ### [Mechanistic Mathematical Models: An Underused Platform for HPV Research](http://www.sciencedirect.com/science/article/pii/S2405852116300623)
 **Ryser MD**, Gravitt PE, Myers ER
@@ -122,7 +122,8 @@ Lehning M, Loewe H, **Ryser MD**, Raderschall N
 #### Water Resources Research, 44, W07404 (2008)
 ---
 
-### [Thermal quantum electrodynamics of non relativistic charged fluids](http://arxiv.org/abs/arXiv:quant-ph/0701192v2) Buenzli PR, Martin PA,**Ryser MD**
+### [Thermal quantum electrodynamics of non relativistic charged fluids](http://arxiv.org/abs/arXiv:quant-ph/0701192v2)
+Buenzli PR, Martin PA,**Ryser MD**
 #### Physical Review E, 75, 041125 (2007)
 ---
 
