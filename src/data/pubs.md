@@ -51,8 +51,8 @@ Grimm LJ, **Ryser MD**, Partridge AH, Thompson AM, Thomas JS, Hwang ES
 ---
 ## 2016
 
-### [Spatial measures of genetic heterogeneity during carcinogenesis
-Storey K, **Ryser MD**, Leder KZ, Foo J](https://link.springer.com/article/10.1007/s11538-016-0234-5)
+### [Spatial measures of genetic heterogeneity during carcinogenesis](https://link.springer.com/article/10.1007/s11538-016-0234-5)
+Storey K, **Ryser MD**, Leder KZ, Foo J
 #### Bulletin of Mathematical Biology, 79(2): 237-276 (2016)
 ---
 ### [Quantifying the dynamics of field cancerization in tobacco-related head and neck cancer: a multi-scale modeling approach](http://cancerres.aacrjournals.org/content/early/2016/10/20/0008-5472.CAN-16-1054)
