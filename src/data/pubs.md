@@ -123,14 +123,14 @@ Lehning M, Loewe H, **Ryser MD**, Raderschall N
 ---
 
 ### [Thermal quantum electrodynamics of non relativistic charged fluids](http://arxiv.org/abs/arXiv:quant-ph/0701192v2)
-Buenzli PR, Martin PA,**Ryser MD**
+Buenzli PR, Martin PA, **Ryser MD**
 #### Physical Review E, 75, 041125 (2007)
 ---
 
 ### [Ph.D. thesis: Of Bones and Noise](http://www.math.duke.edu/~ryser/files/PhD11.pdf)
-under the supervision of N. Nigam, P.F. Tupper and S.V. Komarova
+under the supervision of Nigam N, Tupper PF  and Komarova SV
 
 ---
 
 ### [M.Sc. thesis: Electromagnetic Fluctuations in Charged Fluids Coupled to the Radiation Field. ](http://www.math.duke.edu/~ryser/files/MT06main.pdf)
-under the supervision of Ph.-A. Martin
+under the supervision of Martin PA
