@@ -24,8 +24,8 @@ const Jumbotron = styled.div`
 
 const PicJumbo = styled(Jumbotron)`
 background: #040404;
-min-width: 500px;
-min-height: 500px;
+min-width: 350px;
+min-height: 350px;
   ${'' /* linear-gradient(
     rgba(0, 0, 0, 0.6),
     rgba(0, 0, 0, 0.6)
@@ -37,48 +37,48 @@ min-height: 500px;
 
 const IntroJumbo = styled(Jumbotron)`
 ${'' /* background: #040404; */}
-min-width: 500px;
-min-height: 500px;
+min-width: 350;
+min-height: 350px;
+
 @media (max-width: ${breakpoint[1].x}) {
   background: #841C7C;
 }
 `
 
 const Name = styled.p`
-  font-size: ${rhythm(2.8)};
+  font-size: ${rhythm(3.5)};
   margin:auto;
   ${'' /* height:auto; */}
   line-height: 100px;
   ${'' /* text-transform: uppercase; */}
   text-align: center;
   @media (max-width: ${breakpoint[0].x}) {
-    font-size: ${rhythm(2)};
+    font-size: ${rhythm(3)};
   }
 `
 
 
 const Slogan = styled.p`
-  font-size: ${rhythm(.8)};
+  font-size: ${rhythm(1.2)};
   margin:auto;
   height:auto;
-  padding-top: 45px;
   line-height: ${rhythm(.9)};
-  color:#ddd;
-
+  color:#fff;
+  padding-bottom:70px;
   text-align: center;
   @media (max-width: ${breakpoint[0].x}) {
-    font-size: ${rhythm(.6)};
+    font-size: ${rhythm(.9)};
   }
 `
 
 const MStyle = styled.span`
-font-size: ${props=>props.type==="big"?rhythm(3.5):rhythm(1)};
+font-size: ${props=>props.type==="big"?rhythm(5):rhythm(1.3)};
 color:none;
 -webkit-text-fill-color: rgba(0, 0, 0, 0); /* Will override color (regardless of order) */
  -webkit-text-stroke-width: ${props=>props.type==="big"?"1px":".4px"};
  -webkit-text-stroke-color: white;
 @media (max-width: ${breakpoint[0].x}) {
-  font-size: ${props=>props.type==="big"?rhythm(2):rhythm(.6)};
+  font-size: ${props=>props.type==="big"?rhythm(3.5):rhythm(1)};
 }
 `
 
@@ -90,7 +90,9 @@ const Intro = styled.div`
   color:white;
   background: #841C7C;
   width:100%;
-  padding: 100px 150px;
+  padding: 70px 70px;
+  display:flex;
+  flex-direction:column;
   @media (max-width: ${breakpoint[0].x}) {
     padding: 50px 50px;
     font-size: ${rhythm(.7)};
@@ -123,9 +125,9 @@ const TitleContainer = styled.div`
     width:40vw;
     border-radius: 50% 50%;
     @media (max-width: ${breakpoint[1].x}) {
-      height:500px;
-      width:500px;
-      border-radius: 250px 250px;
+      height:100%;
+      width:100%;
+      border-radius: 0 ;
     }
 `
 
@@ -142,14 +144,18 @@ export default ({data}) => {
         <TitleContainer>
           <div style={{margin:"auto"}}>
           <Name>the <MLogo type="big"/><sup>4</sup> laboratory</Name>
-        <Slogan>bringing <MLogo/>athematical <MLogo/>ulti-scale <MLogo/>odeling to <MLogo/>edicine</Slogan></div>
+        
+        </div>
 
       </TitleContainer>
 
       </PicJumbo>
       <IntroJumbo >
-
-        <Intro dangerouslySetInnerHTML={{__html:data.allFile.edges[0].node.childMarkdownRemark.html}}/>
+      
+        <Intro >
+        <Slogan>bringing <MLogo/>athematical <MLogo/>ulti-scale <MLogo/>odeling to <MLogo/>edicine</Slogan>
+        <div style={{margin:"auto"}}dangerouslySetInnerHTML={{__html:data.allFile.edges[0].node.childMarkdownRemark.html}}/>
+        </Intro>
       </IntroJumbo>
 
     </MainContainer>
