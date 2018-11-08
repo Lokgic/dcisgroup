@@ -44,7 +44,8 @@ const NewsHeadingStyle = {
   width:'100%',
   height:'auto',
   padding:'15px 15px',
-  backgroundColor: '#CCD4E4',
+  backgroundColor: '#4a6572',
+  color:"#fefefe"
 }
 
 
@@ -62,12 +63,12 @@ export default ({data})=>{
 
   return(
     <Layout>
-      <FlexConstainer>
+      <FlexConstainer style={{maxWidth:"950px", margin:"auto"}}>
       {news.map((d,i)=>(
         <div key={`news_${i}`}style={NewsContainerStyle}>
           <div style = {NewsHeadingStyle}>
-            <h2 style={{display:"inline",fontSize:"1.2em"}}>{d.node.frontmatter.title}</h2>
-            <h3 style={{float:"right",color:"#888",display:"inline",fontSize:".9em"}}>{d.node.frontmatter.date}</h3>
+            <h2 style={{display:"inline",fontSize:"1.2em", color:"#fefefe"}}>{d.node.frontmatter.title}</h2>
+            <h3 style={{float:"right",color:"#fefefe",display:"inline",fontSize:".9em"}}>{d.node.frontmatter.date}</h3>
           </div>
           <div style={NewsContentStyle}>
 

@@ -7,7 +7,7 @@ export const breakpoint = [
     x:"1500px"
   },
   {
-    x:"1100px"
+    x:"1000px"
   },
   {
     x:"650px"
@@ -19,6 +19,8 @@ width:100%;
 height:${({height})=>height?height:"60vh"};
 display: flex;
 flex-wrap:wrap;
+max-width:1024px;
+margin:auto;
 
 `
 
