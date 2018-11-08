@@ -1,16 +1,31 @@
 import React from "react"
 import Layout from "../components/layout"
 import {FlexConstainer, breakpoint} from '../components/StyComp'
-import {  Link, graphql } from "gatsby"
+
 
 export default ({data})=>{
     console.log(data)
     return (
     <Layout>
     <FlexConstainer>
-        <div 
-            style={{padding:"50px"}}
-            dangerouslySetInnerHTML={{__html:data.allFile.edges[1].node.childMarkdownRemark.html}}/>
+        <div style={{padding:"50px"}}>
+            <h1>Contact</h1>
+            <h2>Marc D. Dyser, PhD</h2>
+            <p>Department of Population Health Sciences<br/>
+            Department of Mathematics<br/>
+            Duke Cancer Institute<br/>
+            Duke University</p>
+            <h2>Mail:</h2>
+            <p>
+                215 Morris St<br/>
+                Durham, NC 27701, USA
+            </p>
+            <h2>Phone:</h2>
+            <p>919-684-8294</p>
+            <h2>Email:</h2>
+            <a href="mailto:marc.ryser@duke.edu">marc.ryser@duke.edu</a>
+        </div>
+
     </FlexConstainer>
 
     </Layout>
@@ -18,31 +33,3 @@ export default ({data})=>{
 )}
 
 
-export const query = graphql`
-  query{
-  site{
-    siteMetadata{
-      title
-      structure
-    }
-  }
-
-  allFile(
-    filter:{name:{regex:"/(contact)/"}}
-  ) {
-    edges {
-      node {
-        childMarkdownRemark{
-          frontmatter{
-            title
-            date(formatString: "DD MMMM, YYYY")
-          }
-          html
-          excerpt
-        }
-      }
-    }
-  }
-}
-
-`
