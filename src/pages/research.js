@@ -79,7 +79,7 @@ export default class ResearchPage extends React.Component {
             </ContentCard>
           </ResearchCard>
           <ResearchCard>
-            <h1>Decision Support for DCIS Patients </h1>
+            <h1>Model-Based Risk Predictions </h1>
             <BannerContainer src={R2Pic}/>
             <ContentCard show>
             <p><b>Why:</b> Women diagnosed with ductal carcinoma in situ (DCIS) have several management options. To enable informed decision making, quantitative risk predictions are needed. </p>
@@ -89,7 +89,7 @@ export default class ResearchPage extends React.Component {
             </ContentCard>
           </ResearchCard>
           <ResearchCard>
-            <h1>Decision Support for DCIS Patients </h1>
+            <h1>Dynamics of Cancer Initiation </h1>
             <BannerContainer src={R3Pic}/>
             <ContentCard show>
             <p><b>Why:</b> Not all screen-detected cancerous lesions progress to life-threatening disease. To avoid overtreatment, identification of non-progressive lesions is critical.</p>
