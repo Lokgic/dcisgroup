@@ -95,7 +95,7 @@ export default class ResearchPage extends React.Component {
             <p><b>Why:</b> Not all screen-detected cancerous lesions progress to life-threatening disease. To avoid overtreatment, identification of non-progressive lesions is critical.</p>
             <p><b>What:</b> We combine experimental data from human tumors with mathematical modeling to elucidate the evolutionary dynamics of cancer initiation and to identify markers of invasive progression.  </p>
             <p><b>How:</b> Multi-regional sequencing assays (genetic and epigenetic), mechanistic mathematical models</p>
-            <p><b>How:</b> Multi-regional sequencing assays (genetic and epigenetic), mechanistic mathematical models</p>
+
             <p><b>Collaborators:</b> <a href="https://surgery.duke.edu/divisions/advanced-oncologic-and-gastrointestinal-surgery/research/research-laboratories/determinants-progression-early-breast-and-ovarian-cancer/lab-members" target="_blank">Hwang and Marks lab </a>@ Duke,   <a href="https://keck.usc.edu/faculty-search/darryl-shibata/" target="_blank">Shibata lab</a>@ USC</p>
             </ContentCard>
           </ResearchCard>
