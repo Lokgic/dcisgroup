@@ -17,4 +17,10 @@
 .pubBox h3 {
   margin:0 0 .2px 0;
   font-size: 1.2em;
+
+}
+
+.pubBox a {
+  color:#336c8c;
+  font-weight: 400;
 }

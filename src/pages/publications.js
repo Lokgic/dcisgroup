@@ -8,6 +8,12 @@ const PubCont = styled.div`
   padding: 20px;
   max-width: 1000px;
   margin:auto;
+  h3 {
+
+      color:red;
+
+    
+  }
 `
 const pstyle = {
   padding:"50px",

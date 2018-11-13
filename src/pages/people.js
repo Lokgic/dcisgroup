@@ -16,6 +16,7 @@ import data from '../data/people.json'
 import MarcPic from '../imgs/people/marc.jpg'
 import IlonaPic from '../imgs/people/ilona.png'
 import LokPic from '../imgs/people/lok.png'
+import JenniferPic from '../imgs/people/jennifer.png'
 import MarcCV from '../data/cv_ryser.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
@@ -28,7 +29,7 @@ const pics = {
   "marc":MarcPic,
   "ilona":IlonaPic,
   "lok":LokPic,
-  "jennifer":null
+  "jennifer":JenniferPic
 }
 
 const cv = {
