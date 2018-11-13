@@ -35,6 +35,8 @@
 Grimm LJ, **Ryser MD**, Hyslop T
 #### JAMA Surgery, 153(3):290-291 (2018)
 ---
+
+
 ## 2017
 
 ### [Dissecting age-specific HPV seroprevalence in US women: The role of cohort effects and waning immunity](https://academic.oup.com/jid/article-abstract/3977842/Modeling-of-US-HPV-Seroprevalence-by-Age-and)
@@ -57,6 +59,8 @@ Cao Y, Feng Y, **Ryser MD**, Zhu K, Herschlag G, Marusak K,Zauscher S, You L
 Grimm LJ, **Ryser MD**, Partridge AH, Thompson AM, Thomas JS, Hwang ES
 #### Annals of Surgical Oncology, 24(12):3534-3540 (2017)
 ---
+
+
 ## 2016
 
 ### [Spatial measures of genetic heterogeneity during carcinogenesis](https://link.springer.com/article/10.1007/s11538-016-0234-5)
@@ -75,6 +79,8 @@ Cao Y, **Ryser MD**, Payne S, Li B, Rao CV, You L
 **Ryser MD**, Worni M, Turner EL, Marks JR, Durrett R, Hwang ES
 #### Journal of the National Cancer Institute, 108(5):djv372 (2016)
 ---
+
+
 ## 2015
 
 ### [Trends in treatment patterns and outcomes for ductal carcinoma in situ (DCIS)](http://jnci.oxfordjournals.org/content/107/12/djv263)
@@ -97,6 +103,8 @@ Worni M, Akushevich I, Greenup R, Sarma D, **Ryser MD**, Myers ER, Hwang ES
 Foo J, Leder K, **Ryser MD**
 #### The Journal of Theoretical Biology, 355:170-184 (2014)
 ---
+
+
 ## 2014 and Earlier
 
 ### [Temporal control of self-organized pattern formation without morphogen gradients in bacteria](http://www.nature.com/msb/journal/v9/n1/full/msb201355.html)
