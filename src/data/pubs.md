@@ -1,10 +1,13 @@
 ## 2018
 
-### [Epigenetic Heterogeneity in Human Colorectal Tumors Reveals Preferential Conservation And Evidence of Immune Surveillance]()
+### [Epigenetic heterogeneity in human colorectal tumors reveals preferential conservation and Evidence of Immune surveillance]()
 
 **Ryser MD**, Yu M, Grady W, Siegmund K, Shibata D
 
 #### Scientific Reports, accepted (2018)
+
+--------------------------------------
+
 
 ### [Identification of the fraction of indolent tumors and associated overdiagnosis in breast cancer screening trials](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwy214/5133242)
 
