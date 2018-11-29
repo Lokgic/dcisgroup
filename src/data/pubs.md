@@ -1,10 +1,18 @@
 ## 2018
 
-### [Epigenetic heterogeneity in human colorectal tumors reveals preferential conservation and Evidence of Immune surveillance]()
+### [Cancer outcomes in DCIS patients without locoregional treatment]()
+
+**Ryser MD**, Weaver DL,  Zhao F, Worni M, Grimm L, Gulati R, Etzioni R, Hyslop T, Lee SJ, Hwang ES
+
+#### Journal of the National Cancer Institute, accepted (2018)
+
+--------------------------------------
+
+### [Epigenetic heterogeneity in human colorectal tumors reveals preferential conservation and evidence of immune surveillance](https://www.nature.com/articles/s41598-018-35621-y)
 
 **Ryser MD**, Yu M, Grady W, Siegmund K, Shibata D
 
-#### Scientific Reports, accepted (2018)
+#### Scientific Reports, 8:17292 (2018)
 
 --------------------------------------
 
