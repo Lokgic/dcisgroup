@@ -25,6 +25,15 @@
 
 --------------------------------------
 
+
+### [Estimating the frequency of indolent breast cancer in screening trials](https://journals.sagepub.com/doi/10.1177/0962280217754232)
+
+Shen Y, Dong W, Gulati R, **Ryser MD**, Etzioni RB
+
+#### Statistical Methods in Medical Research,  (2018)
+
+--------------------------------------
+
 ### [Spatial mutation patterns as markers of early colorectal tumor cell mobility ](http://www.pnas.org/content/early/2018/05/09/1716552115.short)
 
 **Ryser MD**, Min BH, Siegmund KD, Shibata D
