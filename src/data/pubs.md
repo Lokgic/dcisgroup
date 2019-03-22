@@ -1,3 +1,14 @@
+## 2019
+
+### [Cancer outcomes in DCIS patients without locoregional treatment]()
+
+**Ryser MD**, Weaver DL,  Zhao F, Worni M, Grimm L, Gulati R, Etzioni R, Hyslop T, Lee SJ, Hwang ES
+
+#### Journal of the National Cancer Institute, accepted (2018)
+
+--------------------------------------
+
+
 ## 2018
 
 ### [Cancer outcomes in DCIS patients without locoregional treatment]()
