@@ -21,7 +21,16 @@
 
 **Ryser MD**, Gulati R, Eisenberg MC, Shen Y, Hwang ES, Etzioni RB
 
-#### American Journal of Epidemiology, accepted (2018)
+#### American Journal of Epidemiology, online first (2018)
+
+--------------------------------------
+
+
+### [Estimating the frequency of indolent breast cancer in screening trials](https://journals.sagepub.com/doi/10.1177/0962280217754232)
+
+Shen Y, Dong W, Gulati R, **Ryser MD**, Etzioni RB
+
+#### Statistical Methods in Medical Research  (2018)
 
 --------------------------------------
 
