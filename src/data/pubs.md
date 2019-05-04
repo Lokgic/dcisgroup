@@ -3,10 +3,12 @@
 ### [Incidence of Ductal Carcinoma in Situ in the United States, 2000-2014]()
 **Ryser MD**, Hendrix L, Worni M, Liu Y, Hyslop T, Hwang ES
 #### Cancer Epidemiology, Biomarkers and Prevention, accepted (2019)
+--------------------------------------
 
 ### [Growth dynamics of mammographic calcifications: differentiating ductal carcinoma in situ from benign breast disease] ()
 Grimm LJ, Miller M, Lo J, Hyslop T, Hwang ES, **Ryser MD**
 #### Radiology, accepted (2019)
+--------------------------------------
 
 
 ### [Cancer outcomes in DCIS patients without locoregional treatment](https://academic.oup.com/jnci/advance-article/doi/10.1093/jnci/djy220/5318677)
