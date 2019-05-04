@@ -1,22 +1,20 @@
 ## 2019
 
-### [Cancer outcomes in DCIS patients without locoregional treatment]()
+### [Incidence of Ductal Carcinoma in Situ in the United States, 2000-2014]()
+**Ryser MD**, Hendrix L, Worni M, Liu Y, Hyslop T, Hwang ES
+#### Cancer Epidemiology, Biomarkers and Prevention, accepted (2019)
+ 
+
+### [Cancer outcomes in DCIS patients without locoregional treatment](https://academic.oup.com/jnci/advance-article/doi/10.1093/jnci/djy220/5318677)
 
 **Ryser MD**, Weaver DL,  Zhao F, Worni M, Grimm L, Gulati R, Etzioni R, Hyslop T, Lee SJ, Hwang ES
 
-#### Journal of the National Cancer Institute, accepted (2018)
+#### Journal of the National Cancer Institute, 111(9): djy220 (2019)
 
 --------------------------------------
 
 ## 2018
 
-### [Cancer outcomes in DCIS patients without locoregional treatment]()
-
-**Ryser MD**, Weaver DL,  Zhao F, Worni M, Grimm L, Gulati R, Etzioni R, Hyslop T, Lee SJ, Hwang ES
-
-#### Journal of the National Cancer Institute, accepted (2018)
-
---------------------------------------
 
 ### [Epigenetic heterogeneity in human colorectal tumors reveals preferential conservation and evidence of immune surveillance](https://www.nature.com/articles/s41598-018-35621-y)
 
@@ -40,7 +38,7 @@
 
 Shen Y, Dong W, Gulati R, **Ryser MD**, Etzioni RB
 
-#### Statistical Methods in Medical Research  (2018)
+#### Statistical Methods in Medical Research, 28(4):1261–1271 (2018)
 
 --------------------------------------
 
