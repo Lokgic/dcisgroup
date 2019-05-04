@@ -5,7 +5,7 @@
 #### Cancer Epidemiology, Biomarkers and Prevention, accepted (2019)
 --------------------------------------
 
-### [Growth dynamics of mammographic calcifications: differentiating ductal carcinoma in situ from benign breast disease] ()
+### [Growth dynamics of mammographic calcifications: differentiating ductal carcinoma in situ from benign breast disease]()
 Grimm LJ, Miller M, Lo J, Hyslop T, Hwang ES, **Ryser MD**
 #### Radiology, accepted (2019)
 --------------------------------------
