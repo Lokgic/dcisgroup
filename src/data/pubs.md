@@ -1,13 +1,19 @@
 ## 2019
 
-### [Incidence of Ductal Carcinoma in Situ in the United States, 2000-2014]()
-**Ryser MD**, Hendrix L, Worni M, Liu Y, Hyslop T, Hwang ES
-#### Cancer Epidemiology, Biomarkers and Prevention, accepted (2019)
+### [Response to Habel and Buist] (https://academic.oup.com/jnci/advance-article/doi/10.1093/jnci/djz120/5519125)
+**Ryser MD**, Hwang ES
+#### Journal of the National Cancer Institute, djz120 (2019)
 --------------------------------------
 
-### [Growth dynamics of mammographic calcifications: differentiating ductal carcinoma in situ from benign breast disease]()
+
+### [Incidence of Ductal Carcinoma in Situ in the United States, 2000-2014](https://cebp.aacrjournals.org/content/28/8/1316.long)
+**Ryser MD**, Hendrix L, Worni M, Liu Y, Hyslop T, Hwang ES
+#### Cancer Epidemiology, Biomarkers and Prevention, 28(8):1316-1323 (2019)
+--------------------------------------
+
+### [Growth dynamics of mammographic calcifications: differentiating ductal carcinoma in situ from benign breast disease](https://pubs.rsna.org/doi/10.1148/radiol.2019182599?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed)
 Grimm LJ, Miller M, Lo J, Hyslop T, Hwang ES, **Ryser MD**
-#### Radiology, accepted (2019)
+#### Radiology, 292(1):77-83 (2019)
 --------------------------------------
 
 
