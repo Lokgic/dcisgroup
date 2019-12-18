@@ -36,5 +36,12 @@
     "title": "Assistant Research Professor",
     "pickey": "inma",
     "email": "sorribes@math.duke.edu"
+  },
+  "matt": {
+    "name": "Matthew Greenwald",
+    "blurb": "As an undergraduate at Duke University and a passionate student of biology and philosophy, Matt sees great potential for modern biology to investigate questions which have formerly required philosophical answers.  He hopes to use his studies to research the biological basis of consciousness and happiness, and to explore neurological disease.",
+    "title": "Undergraduate",
+    "pickey": "matt",
+    "email": "matthew.a.greenwald@duke.edu"
   }
 }

@@ -17,6 +17,7 @@ import MarcPic from "../imgs/people/marc.jpg";
 import IlonaPic from "../imgs/people/ilona.png";
 import LokPic from "../imgs/people/lok.png";
 import JenniferPic from "../imgs/people/jennifer.png";
+import MattPic from "../imgs/people/matt.png";
 import InmaPic from "../imgs/people/inma.jpg";
 import MarcCV from "../data/cv_ryser.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -28,13 +29,14 @@ const pics = {
   ilona: IlonaPic,
   lok: LokPic,
   jennifer: JenniferPic,
-  inma: InmaPic
+  inma: InmaPic,
+  matt: MattPic
 };
 
 const cv = {
   marc: MarcCV,
-  ilona: null,
-  lok: null
+  ilona: "https://www.ilonafridman.com/cv",
+  lok: "https://lokcv.com"
 };
 
 const PeopleCont = styled(FlexConstainer)`
