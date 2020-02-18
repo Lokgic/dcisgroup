@@ -174,7 +174,7 @@ Payne S, Li B, Schaeffer D, **Ryser MD**, You L
 ---
 
 ### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle] 
-(http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703
+(http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
 **Ryser MD**, Komarova SV, Qu Y
 #### PloS Computational Biology, Volume 8, Issue 10, e1002703 (2012)
 ---
