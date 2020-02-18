@@ -183,8 +183,7 @@ Hairer M, **Ryser MD**, Weber H,
 #### Journal of Computational Physics, Volume 231, Issue 6, Pages 2537-2550 (2012)
 ---
 
-### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle]
-(http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
+### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002703)
 **Ryser MD**, Qu Y, Komarova SV
 #### PLoS Computational Biology, Volume 8, Issue 10, e100270 (2012)
 ---
