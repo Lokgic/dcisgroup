@@ -173,10 +173,10 @@ Payne S, Li B, Schaeffer D, **Ryser MD**, You L
 #### Molecular Systems Biology, 9:697 (2013)
 ---
 
-### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle] 
+### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle]
 (http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
-**Ryser MD**, Komarova SV, Qu Y
-#### PloS Computational Biology, Volume 8, Issue 10, e1002703 (2012)
+**Ryser MD**, Qu Y, Komarova SV
+#### PLoS Computational Biology, Volume 8, Issue 10, e100270 (2012)
 ---
 
 ### [Triviality of the 2D stochastic Allen-Cahn equation](http://ejp.ejpecp.org/article/view/1731)
