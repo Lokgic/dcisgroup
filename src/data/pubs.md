@@ -182,6 +182,13 @@ Hairer M, **Ryser MD**, Weber H,
 **Ryser MD**, Tupper PF, Nigam N
 #### Journal of Computational Physics, Volume 231, Issue 6, Pages 2537-2550 (2012)
 ---
+
+### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle]
+(http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
+**Ryser MD**, Qu Y, Komarova SV
+#### PLoS Computational Biology, Volume 8, Issue 10, e100270 (2012)
+---
+
 ### [The cellular dynamics of bone remodeling: a mathematical model](http://epubs.siam.org/siap/resource/1/smjmap/v70/i6/p1899_s1?isAuthorized=no)
 **Ryser MD**, Nigam N, Komarova SV
 #### SIAM Journal on Applied Mathematics, Volume 70, Issue 6, pp. 1899-1921 (2010)
