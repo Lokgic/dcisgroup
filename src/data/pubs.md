@@ -6,7 +6,7 @@
 --------------------------------------
 
 ### [Surgical Decision Making in the Setting of Severe Traumatic Brain Injury: A Survey of Neurosurgeons]()
-Williamson T, **Ryser MD**, Lemmon M, Abdelgadir J, Barks MC, Zakare R, Ubel, PA
+Williamson T, **Ryser MD**, Lemmon M, Abdelgadir J, Barks MC, Zakare R, Ubel PA
 #### PLOS One, accepted (2020)
 --------------------------------------
 
