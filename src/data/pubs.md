@@ -92,18 +92,22 @@ Grimm LJ, **Ryser MD**, Hyslop T
 **Ryser MD**, Rositch AF, Gravitt PE
 #### The Journal of Infectious Diseases, 216(5):604-611 (2017)
 ---
+
 ### [Programmed assembly of pressure sensors using pattern-forming bacteria](https://www.nature.com/articles/nbt.3978?WT.feed_name=subjects_biotechnology)
 Cao Y, Feng Y, **Ryser MD**, Zhu K, Herschlag G, Marusak K,Zauscher S, You L
 #### Nature Biotechnology, 35:1087-1093 (2017)
 ---
+
 ### [Mechanistic Mathematical Models: An Underused Platform for HPV Research](http://www.sciencedirect.com/science/article/pii/S2405852116300623)
 **Ryser MD**, Gravitt PE, Myers ER
 #### Papillomavirus Research, 3:46-49 (2017)
 ---
+
 ### [Bone remodeling as a spatial evolutionary game](http://www.sciencedirect.com/science/article/pii/S0022519317300218)
 **Ryser MD** and Murgas KA
 #### Journal of Theoretical Biology 418(7):16-26 (2017)
 ---
+
 ### [Surgical upstaging rates for vacuum assisted biopsy proven DCIS: implications for active surveillance trials](https://link.springer.com/article/10.1245%2Fs10434-017-6018-9)
 Grimm LJ, **Ryser MD**, Partridge AH, Thompson AM, Thomas JS, Hwang ES
 #### Annals of Surgical Oncology, 24(12):3534-3540 (2017)
@@ -116,14 +120,17 @@ Grimm LJ, **Ryser MD**, Partridge AH, Thompson AM, Thomas JS, Hwang ES
 Storey K, **Ryser MD**, Leder KZ, Foo J
 #### Bulletin of Mathematical Biology, 79(2): 237-276 (2016)
 ---
+
 ### [Quantifying the dynamics of field cancerization in tobacco-related head and neck cancer: a multi-scale modeling approach](http://cancerres.aacrjournals.org/content/early/2016/10/20/0008-5472.CAN-16-1054)
 **Ryser MD**, Lee WT, Ready NE, Leder KZ, Foo J
 #### Cancer Research, 76(24):7078-7088 (2016)
 ---
+
 ### [Collective space sensing coordinates pattern scaling in engineered bacteria](http://www.cell.com/cell/fulltext/S0092-8674(16)30262-8)
 Cao Y, **Ryser MD**, Payne S, Li B, Rao CV, You L
 #### Cell 166(3): 620-630 (2016)
 ---
+
 ### [Outcomes of active surveillance for ductal carcinoma in situ: a computational risk analysis](http://jnci.oxfordjournals.org/content/108/5/djv372.abstract)
 **Ryser MD**, Worni M, Turner EL, Marks JR, Durrett R, Hwang ES
 #### Journal of the National Cancer Institute, 108(5):djv372 (2016)
@@ -136,21 +143,26 @@ Cao Y, **Ryser MD**, Payne S, Li B, Rao CV, You L
 Worni M, Akushevich I, Greenup R, Sarma D, **Ryser MD**, Myers ER, Hwang ES
 #### Journal of the National Cancer Institute, 107(12):djv263 (2015)
 ---
+
 ### [HPV clearance and the neglected role of stochasticity](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004113)
 **Ryser MD**, Durrett R, Myers ER
 #### PLoS Computational Biology, 11(3):e1004113 (2015)
 ---
+
 ### [Impact of coverage-dependent marginal costs on optimal HPV vaccination strategies](http://dx.doi.org/10.1016/j.epidem.2015.01.003)
 **Ryser MD**, McGoff K, Herzog DP, Sivakoff DJ, Myers ER
 #### Epidemics, 11:32-47 (2015)
 ---
+
 ### [Mathematical modeling of cancer metastases](http://www.crcpress.com/product/isbn/9781466517554)
 **Ryser MD** and Komarova SV
 #### in Computational Bioengineering, CRC/Taylor & Francis (2015)
 ---
+
 ### [Multifocality and recurrence risk: a quantitative model of field cancerization](http://www.sciencedirect.com/science/article/pii/S0022519314002203)
 Foo J, Leder K, **Ryser MD**
 #### The Journal of Theoretical Biology, 355:170-184 (2014)
+
 ---
 
 
@@ -160,14 +172,18 @@ Foo J, Leder K, **Ryser MD**
 Payne S, Li B, Schaeffer D, **Ryser MD**, You L
 #### Molecular Systems Biology, 9:697 (2013)
 ---
-### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle] (http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703)
+
+### [Osteoprotegerin in bone metastases: mathematical solution to the puzzle] 
+(http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002703
 **Ryser MD**, Komarova SV, Qu Y
 #### PloS Computational Biology, Volume 8, Issue 10, e1002703 (2012)
 ---
+
 ### [Triviality of the 2D stochastic Allen-Cahn equation](http://ejp.ejpecp.org/article/view/1731)
 Hairer M, **Ryser MD**, Weber H,
 #### Electronic Journal of Probability, Volume 17, Article 39 (2012)
 ---
+
 ### [On the well-posedness of the stochastic Allen-Cahn equation in two dimensions](http://arxiv.org/abs/arXiv:1104.0720v4)
 **Ryser MD**, Tupper PF, Nigam N
 #### Journal of Computational Physics, Volume 231, Issue 6, Pages 2537-2550 (2012)
