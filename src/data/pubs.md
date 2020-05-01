@@ -1,13 +1,19 @@
 ## 2020
 
+### [Modeling the natural history of ductal carcinoma in situ based on population data]()
+Chootipongchaivat S, van Ravesteyn NT, Li X, Huang H, Weedon-Fekjær H, **Ryser MD**, Weaver D, Burnside ES, Heckman-Stoddard BM, de Koning HJ, Lee SJ
+#### Breast Cancer Research, accepted (2020)
+--------------------------------------
+
+
 ### [Minimal Barriers to Invasion During Human Colorectal Tumor Growth](https://www.nature.com/articles/s41467-020-14908-7)
 **Ryser MD**, Mallo D, Hall A, Hardman T, King LM, Tatishchev S, Sorribes IC, Maley CC, Marks JR, Hwang ES, Shibata D
 #### Nature Communications, 11:1280 (2020)
 --------------------------------------
 
-### [Surgical Decision Making in the Setting of Severe Traumatic Brain Injury: A Survey of Neurosurgeons]()
+### [Surgical Decision Making in the Setting of Severe Traumatic Brain Injury: A Survey of Neurosurgeons](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228947)
 Williamson T, **Ryser MD**, Lemmon M, Abdelgadir J, Barks MC, Zakare R, Ubel PA
-#### PLOS One, accepted (2020)
+#### PLoS ONE 15(3): e0228947 (2020)
 --------------------------------------
 
 
