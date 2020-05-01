@@ -1,8 +1,8 @@
 ## 2020
 
-### [Minimal Barriers to Invasion During Human Colorectal Tumor Growth]()
+### [Minimal Barriers to Invasion During Human Colorectal Tumor Growth](https://www.nature.com/articles/s41467-020-14908-7)
 **Ryser MD**, Mallo D, Hall A, Hardman T, King LM, Tatishchev S, Sorribes IC, Maley CC, Marks JR, Hwang ES, Shibata D
-#### Nature Communications, accepted (2020)
+#### Nature Communications, 11:1280 (2020)
 --------------------------------------
 
 ### [Surgical Decision Making in the Setting of Severe Traumatic Brain Injury: A Survey of Neurosurgeons]()
