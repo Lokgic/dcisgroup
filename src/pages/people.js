@@ -9,7 +9,7 @@ import {
   CardJobTitle,
   CardBlurb,
   CardPanel,
-  CardPanelElement
+  CardPanelElement,
 } from "../components/StyComp";
 import styled from "styled-components";
 import data from "../data/people.json";
@@ -30,13 +30,13 @@ const pics = {
   lok: LokPic,
   jennifer: JenniferPic,
   inma: InmaPic,
-  matt: MattPic
+  matt: MattPic,
 };
 
 const cv = {
   marc: MarcCV,
   ilona: "https://www.ilonafridman.com/cv",
-  lok: "https://lokcv.com"
+  lok: "lokcv.com",
 };
 
 const PeopleCont = styled(FlexConstainer)`
@@ -45,12 +45,12 @@ const PeopleCont = styled(FlexConstainer)`
   margin: auto;
 `;
 
-export default props => {
+export default (props) => {
   // console.log(data)
   return (
     <Layout>
       <PeopleCont>
-        {Object.keys(data).map(d => (
+        {Object.keys(data).map((d) => (
           <Card>
             <CardImg src={pics[d]} />
             <CardContent>
