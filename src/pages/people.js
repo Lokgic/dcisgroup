@@ -36,7 +36,7 @@ const pics = {
 const cv = {
   marc: MarcCV,
   ilona: "https://www.ilonafridman.com/cv",
-  lok: "www.lokcv.com",
+  lok: "http://www.lokcv.com",
 };
 
 const PeopleCont = styled(FlexConstainer)`
