@@ -1,13 +1,24 @@
 ## 2020
 
-### [Withdrawal of Life-Supporting Treatment in Severe Traumatic Brain Injury: Evidence for Regional and Socioeconomic Variation]()
-Williamson T, **Ryser MD**, Ubel PA, Abdelgadir J, Spears CA, Liu B, Komisarow J, Lemmon ME, Elsamadicy A, Lad SP
-#### JAMA Surgery, accepted (2020)
+
+### [Risk of Malignant Upgrade After Breast Core Needle Biopsy Diagnosis of Lobular Neoplasia: A Systematic Review and Meta-Analysis]()
+Shehata MN, Rahbar H, Flanagan MR, Kilgore MR, Lee CI, **Ryser MD**, Lowry KP
+#### Journal of the American College of Radiology, accepted (2020)
 --------------------------------------
 
-### [Modeling the natural history of ductal carcinoma in situ based on population data]()
+### [Relationship Between HCAHPS Scores and Survey Response Rate Is Linked to Hospital Size](https://journals.sagepub.com/doi/10.1177/2374373520932458)
+Rodriguez-Homs LG,Hammill BG, **Ryser MD**, Phillips HR, Mosca, PJ
+#### Journal of Patient Experience, online first (2020)
+--------------------------------------
+
+### [Withdrawal of Life-Supporting Treatment in Severe Traumatic Brain Injury: Evidence for Regional and Socioeconomic Variation](https://jamanetwork.com/journals/jamasurgery/article-abstract/2767404)
+Williamson T, **Ryser MD**, Ubel PA, Abdelgadir J, Spears CA, Liu B, Komisarow J, Lemmon ME, Elsamadicy A, Lad SP
+#### JAMA Surgery, online first (2020)
+--------------------------------------
+
+### [Modeling the natural history of ductal carcinoma in situ based on population data](https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-020-01287-6)
 Chootipongchaivat S, van Ravesteyn NT, Li X, Huang H, Weedon-Fekjær H, **Ryser MD**, Weaver D, Burnside ES, Heckman-Stoddard BM, de Koning HJ, Lee SJ
-#### Breast Cancer Research, accepted (2020)
+#### Breast Cancer Research, 22:53 (2020)
 --------------------------------------
 
 
