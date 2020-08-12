@@ -3,7 +3,7 @@
 
 
 ### [Time-varying survival effects for squamous cell carcinomas at oropharyngeal and non-oropharyngeal head and neck sites in the United States, 1973–2015]()
-Brouwer AF, He K, Chinn SB, Mondul AM, Chapman CH, Ryser MD, Banerjee M, Eisenberg MC, Meza R, Taylor JMG
+Brouwer AF, He K, Chinn SB, Mondul AM, Chapman CH, **Ryser MD**, Banerjee M, Eisenberg MC, Meza R, Taylor JMG
 #### Cancer, accepted (2020)
 
 
