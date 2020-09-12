@@ -1,5 +1,8 @@
 ## 2020
 
+### [Auto-antibodies to p53 and the subsequent development of colorectal cancer in a United States prospective cohort consortium]()
+Butt J, Blot WB, Visvanathan K, Le Marchand L, Wilkens LR, Chen Y, Sesso HD, Teras LR, **Ryser MD**, Hyslop T, Wassertheil-Smoller S, Tinker LF, Potter JD, Song M, Berndt SI, Waterboer T, Pawlita M, and Epplein M
+#### Cancer Epidemiology, Biomarkers & Prevention, accepted (2020)
 
 
 ### [Time-varying survival effects for squamous cell carcinomas at oropharyngeal and non-oropharyngeal head and neck sites in the United States, 1973–2015]()
