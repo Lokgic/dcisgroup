@@ -1,11 +1,16 @@
 ## 2020
 
+### [Association of combined sero-positivity to Helicobacter pylori and Streptococcus gallolyticus with risk of colorectal cancer]()
+Epplein E, Le Marchand L, Cover T, Song M, Blot W, Peek W, Teras L, Visvanathan K, Chen Y, Sesso H, Zeleniuch-Jacquotte A, Berndt S, Potter J, **Marc Ryser**,
+Haiman C, Wassertheil-Smoller S, Tinker L , Waterboer T, Butt J
+#### Microorganisms, accepted (2020)
+
 ### [Auto-antibodies to p53 and the subsequent development of colorectal cancer in a United States prospective cohort consortium]()
 Butt J, Blot WB, Visvanathan K, Le Marchand L, Wilkens LR, Chen Y, Sesso HD, Teras LR, **Ryser MD**, Hyslop T, Wassertheil-Smoller S, Tinker LF, Potter JD, Song M, Berndt SI, Waterboer T, Pawlita M, and Epplein M
 #### Cancer Epidemiology, Biomarkers & Prevention, accepted (2020)
 
 
-### [Time-varying survival effects for squamous cell carcinomas at oropharyngeal and non-oropharyngeal head and neck sites in the United States, 1973–2015]()
+### [Time-varying survival effects for squamous cell carcinomas at oropharyngeal and non-oropharyngeal head and neck sites in the United States, 1973–2015](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.33174)
 Brouwer AF, He K, Chinn SB, Mondul AM, Chapman CH, **Ryser MD**, Banerjee M, Eisenberg MC, Meza R, Taylor JMG
 #### Cancer, accepted (2020)
 
