@@ -1,7 +1,7 @@
 ## 2020
 
 ### [Association of combined sero-positivity to Helicobacter pylori and Streptococcus gallolyticus with risk of colorectal cancer]()
-Epplein E, Le Marchand L, Cover T, Song M, Blot W, Peek W, Teras L, Visvanathan K, Chen Y, Sesso H, Zeleniuch-Jacquotte A, Berndt S, Potter J, **Marc Ryser**,
+Epplein E, Le Marchand L, Cover T, Song M, Blot W, Peek W, Teras L, Visvanathan K, Chen Y, Sesso H, Zeleniuch-Jacquotte A, Berndt S, Potter J, **Ryser MD**,
 Haiman C, Wassertheil-Smoller S, Tinker L , Waterboer T, Butt J
 #### Microorganisms, accepted (2020)
 
