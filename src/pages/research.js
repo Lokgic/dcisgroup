@@ -69,16 +69,18 @@ export default class ResearchPage extends React.Component {
     return (
       <Layout>
         <FlexConstainer>
-          <ResearchCard>
-            <h1>Decision Support for DCIS Patients </h1>
-            <BannerContainer src={R1Pic}/>
+        <ResearchCard>
+            <h1>Dynamics of Cancer Initiation </h1>
+            <BannerContainer src={R3Pic}/>
             <ContentCard show>
-            <p><b>Why:</b> Women diagnosed with ductal carcinoma in situ (DCIS) face complex decisions. In addition to guideline-concordant care options, ongoing trials are investigating the viability of active surveillance as an alternative strategy</p>
-            <p><b>What:</b> We are developing an interactive web-based decision support tool that helps newly diagnosed DCIS patients navigate the multi-faceted trade-offs between different management options. </p>
-            <p><b>How:</b> Risk modeling, knowledge synthesis, uncertainty visualization, patient communication, qualitative research</p>
+            <p><b>Why:</b> Not all screen-detected cancerous lesions progress to life-threatening disease. To avoid overtreatment, identification of non-progressive lesions is critical.</p>
+            <p><b>What:</b> We combine experimental data from human tumors with mathematical modeling to elucidate the evolutionary dynamics of cancer initiation and to identify markers of invasive progression.  </p>
+            <p><b>How:</b> Multi-regional sequencing assays (genetic and epigenetic), mechanistic mathematical models</p>
+
+            <p><b>Collaborators:</b> <a href="https://surgery.duke.edu/divisions/advanced-oncologic-and-gastrointestinal-surgery/research/research-laboratories/determinants-progression-early-breast-and-ovarian-cancer/lab-members" target="_blank">Hwang and Marks lab </a>@ Duke,   <a href="https://keck.usc.edu/faculty-search/darryl-shibata/" target="_blank">Shibata lab</a>@ USC</p>
             </ContentCard>
           </ResearchCard>
-          <ResearchCard>
+         <ResearchCard>
             <h1>Model-Based Risk Predictions </h1>
             <BannerContainer src={R2Pic}/>
             <ContentCard show>
@@ -89,14 +91,12 @@ export default class ResearchPage extends React.Component {
             </ContentCard>
           </ResearchCard>
           <ResearchCard>
-            <h1>Dynamics of Cancer Initiation </h1>
-            <BannerContainer src={R3Pic}/>
+            <h1>Decision Support for DCIS Patients </h1>
+            <BannerContainer src={R1Pic}/>
             <ContentCard show>
-            <p><b>Why:</b> Not all screen-detected cancerous lesions progress to life-threatening disease. To avoid overtreatment, identification of non-progressive lesions is critical.</p>
-            <p><b>What:</b> We combine experimental data from human tumors with mathematical modeling to elucidate the evolutionary dynamics of cancer initiation and to identify markers of invasive progression.  </p>
-            <p><b>How:</b> Multi-regional sequencing assays (genetic and epigenetic), mechanistic mathematical models</p>
-
-            <p><b>Collaborators:</b> <a href="https://surgery.duke.edu/divisions/advanced-oncologic-and-gastrointestinal-surgery/research/research-laboratories/determinants-progression-early-breast-and-ovarian-cancer/lab-members" target="_blank">Hwang and Marks lab </a>@ Duke,   <a href="https://keck.usc.edu/faculty-search/darryl-shibata/" target="_blank">Shibata lab</a>@ USC</p>
+            <p><b>Why:</b> Women diagnosed with ductal carcinoma in situ (DCIS) face complex decisions. In addition to guideline-concordant care options, ongoing trials are investigating the viability of active surveillance as an alternative strategy</p>
+            <p><b>What:</b> We are developing an interactive web-based decision support tool that helps newly diagnosed DCIS patients navigate the multi-faceted trade-offs between different management options. </p>
+            <p><b>How:</b> Risk modeling, knowledge synthesis, uncertainty visualization, patient communication, qualitative research</p>
             </ContentCard>
           </ResearchCard>
         </FlexConstainer>
