@@ -1,3 +1,14 @@
+
+### [A Bayesian hierarchical model to estimate DNA methylation conservation in colorectal tumors](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab637/6364891?login=true)
+Murgas KA,  Ma Y,  Shahidi LK,  Mukherjee S,  Allen AS, Shibata D,  Ryser MD
+#### Bioinformatics, accepted (2021)
+
+### [Long-term risk of subsequent ipsilateral lesions after surgery with or without radiotherapy for ductal carcinoma in situ of the breast](https://www.nature.com/articles/s41416-021-01496-6)
+van Seijen M, Lips EH, Fu L, Giardiello D, van Duijnhoven F, de Munck L, Elshof LE, Thompson A, Sawyer E, **Ryser MD**, Hwang ES, Schmidt MK, Elkhuizen PHM, Wesseling J, Schaapveld M
+#### British Journal of Cancer, 125.10: 1443-1449 (2021)
+
+
+
 ## 2020
 
 ### [Association of combined sero-positivity to Helicobacter pylori and Streptococcus gallolyticus with risk of colorectal cancer]()
