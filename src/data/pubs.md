@@ -1,6 +1,8 @@
 
 ### [A web-based personalized decision support tool for patients diagnosed with ductal carcinoma in situ: development, content evaluation, and usability testing]()
-Fridman I*, Chan L*, Thomas J, Fish LJ, Falkovic M, Brioux J, Hunter N, Ryser DH, Hwang ES, Pollak KI, Weinfurt K, **Ryser MD**
+Fridman I (a), Chan L (a), Thomas J, Fish LJ, Falkovic M, Brioux J, Hunter N, Ryser DH, Hwang ES, Pollak KI, Weinfurt K, **Ryser MD** 
+
+(a) contributed equally 
 #### Breast Cancer Research and Treatment, acceepted (2022)
 
 
