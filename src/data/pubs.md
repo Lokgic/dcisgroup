@@ -1,6 +1,10 @@
 
+### [A web-based personalized decision support tool for patients diagnosed with ductal carcinoma in situ: development, content evaluation, and usability testing]()
+Fridman I*, Chan L*, Thomas J, Fish LJ, Falkovic M, Brioux J, Hunter N, Ryser DH, Hwang ES, Pollak KI, Weinfurt K, **Ryser MD**
+#### Breast Cancer Research and Treatment, acceepted (2022)
 
 
+## 2021
 
 ### [A Bayesian hierarchical model to estimate DNA methylation conservation in colorectal tumors](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab637/6364891?login=true)
 Murgas KA,  Ma Y,  Shahidi LK,  Mukherjee S,  Allen AS, Shibata D, **Ryser MD**
