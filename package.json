@@ -1,29 +1,27 @@
 {
-  "name": "ryser-lab",
-  "description": "Homepage of the Ryser Laboratory",
-  "license": "MIT",
+  "name": "Marc Ryser's Page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lokgic/dcisgroup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lokgic/dcisgroup/issues"
+  },
+  "homepage": "https://github.com/Lokgic/dcisgroup#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.26",
-    "@fortawesome/free-brands-svg-icons": "^5.12.0",
-    "@fortawesome/free-solid-svg-icons": "^5.12.0",
-    "@fortawesome/react-fontawesome": "^0.1.8",
-    "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.18.13",
-    "gatsby-plugin-styled-components": "^2.0.11",
-    "gatsby-plugin-typography": "^1.7.19",
-    "gatsby-remark-external-links": "0.0.4",
-    "gatsby-source-filesystem": "^1.5.39",
-    "gatsby-transformer-remark": "^2.6.43",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-typography": "^0.16.19",
-    "styled-components": "^3.4.10",
-    "typography": "^0.16.19",
-    "typography-theme-moraga": "^0.15.10"
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
