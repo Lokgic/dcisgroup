@@ -1,7 +1,7 @@
 {
-  "name": "dcisgroup",
+  "name": "Marc Ryser's Page",
   "version": "1.0.0",
-  "description": "1. To begin, install dependencies: `npm install` 2. Run gatsby: `gatsby develop`",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
